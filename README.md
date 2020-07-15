@@ -21,7 +21,7 @@ Hi, I'm Yoni Calsin, a passionate self-taught front-end web developer from Peru.
 
 - 🏆 Subscribe to my newsletter [here](https://yonicalsin.netlify.app/contacto/)
 - 🌍 My web development blog [yonicalsin.netlify.app](http://yonicalsin.netlify.app/)
-- 🔭 I’m currently working on my project [Cogenv](https://github.com/cogenv/cogenv)
+- 🔭 I’m currently working on my project [Cogenv](https://github.com/yonicalsin/cogenv)
 - 🌱 I’m currently learning GraphQL & Typescript
 - 👯 I’m looking to collaborate on [NestJs](https://github.com/nestjs/nest)
 - 💬 Ask me about anything [here](https://github.com/yonicalsin/yonicalsin/issues)
