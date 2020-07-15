@@ -14,8 +14,10 @@
 </a>
 
 <br />
+<br />
 
 Hi, I'm Yoni Calsin, a passionate self-taught front-end web developer from Peru.
+<br />
 
 - 🏆 Subscribe to my newsletter [here](https://yonicalsin.netlify.app/contacto/)
 - 🌍 My web development blog [yonicalsin.netlify.app](http://yonicalsin.netlify.app/)
