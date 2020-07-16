@@ -50,7 +50,7 @@ Hi, I'm Yoni Calsin, a passionate self-taught front-end web developer from Peru.
 <br>
 <br>
 
-<a href="https://github.com/nestjs/nest" target="blank">
+<!-- <a href="https://github.com/nestjs/nest" target="blank">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=nestjs&repo=nest&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
@@ -62,4 +62,4 @@ Hi, I'm Yoni Calsin, a passionate self-taught front-end web developer from Peru.
 </a>
 <a href="https://github.com/yonicalsin/sass-colors" target="blank">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yonicalsin&repo=sass-colors&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
+</a> -->
