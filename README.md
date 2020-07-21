@@ -43,12 +43,12 @@ Hi, I'm Yoni Calsin, a passionate self-taught front-end web developer from Peru.
   Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`
 --->
 
-<a href="https://github.com/yonicalsin" target="blank">
+<!-- <a href="https://github.com/yonicalsin" target="blank">
 <img src="https://github-readme-stats.vercel.app/api?username=yonicalsin&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Yoni Calsin - github stats"/>
-</a>
+</a> -->
 
-<br>
-<br>
+<!-- <br>
+<br> -->
 
 <!-- <a href="https://github.com/nestjs/nest" target="blank">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=nestjs&repo=nest&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
