@@ -1,4 +1,4 @@
-### Hi there, I'm [Yoni Calsin!](https://yonicalsin.netlify.app/) 👋
+## Hi there, I'm [Yoni Calsin!](https://yonicalsin.netlify.app/) <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">
 
 <a href="https://codesandbox.io/u/yonicalsin" target="blank">
   <img align="left" alt="Yoni Calsin | CodeSandbox" width="20px" src="https://cdn.svgporn.com/logos/codesandbox.svg" />
@@ -63,3 +63,19 @@ Hi, I'm Yoni Calsin, a passionate self-taught front-end web developer from Peru.
 <a href="https://github.com/yonicalsin/sass-colors" target="blank">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yonicalsin&repo=sass-colors&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a> -->
+
+_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonicalsin&theme=radical&hide_langs_below=1" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yonicalsin&show_icons=true&theme=radical&line_height=27" alt="Anurag's github stats" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nestjs&repo=nest&theme=radical" />
+</a>    
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=react-hook-form&repo=react-hook-form&theme=radical" />
+</a>
