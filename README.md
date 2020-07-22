@@ -38,44 +38,18 @@ Hi, I'm Yoni Calsin, a passionate self-taught front-end web developer from Peru.
 <code><img height="20" src="https://cdn.svgporn.com/logos/go.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/gatsby.svg"></code>
 
-<!---
-  if you have forked this to use on your profile,
-  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`
---->
-
-<!-- <a href="https://github.com/yonicalsin" target="blank">
-<img src="https://github-readme-stats.vercel.app/api?username=yonicalsin&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Yoni Calsin - github stats"/>
-</a> -->
-
-<!-- <br>
-<br> -->
-
-<!-- <a href="https://github.com/nestjs/nest" target="blank">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=nestjs&repo=nest&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-
-<a href="https://github.com/react-hook-form/react-hook-form" target="blank">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=react-hook-form&repo=react-hook-form&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-<a href="https://github.com/yonicalsin/cogenv" target="blank">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yonicalsin&repo=cogenv&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-<a href="https://github.com/yonicalsin/sass-colors" target="blank">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yonicalsin&repo=sass-colors&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a> -->
-
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/yonicalsin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonicalsin&theme=radical&hide_langs_below=1" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yonicalsin&show_icons=true&theme=radical&line_height=27" alt="Anurag's github stats" />
+<a href="https://github.com/yonicalsin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yonicalsin&show_icons=true&theme=radical&line_height=27" alt="" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/nestjs/nest">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nestjs&repo=nest&theme=radical" />
 </a>    
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/react-hook-form/react-hook-form">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=react-hook-form&repo=react-hook-form&theme=radical" />
 </a>
