@@ -41,10 +41,10 @@ Hi, I'm Yoni Calsin, a passionate self-taught front-end web developer from Peru.
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 
 <a href="https://github.com/yonicalsin">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonicalsin&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonicalsin&theme=radical&hide_langs_below=1" />
 </a>
 <a href="https://github.com/yonicalsin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yonicalsin&show_icons=true&theme=radical&line_height=21" alt="" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yonicalsin&show_icons=true&theme=radical&line_height=27" alt="" />
 </a>
 
 <a href="https://github.com/nestjs/nest">
