@@ -28,15 +28,17 @@ Hi, I'm Yoni Calsin, a passionate self-taught front-end web developer from Peru.
 
 **Languages and Tools:**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/javascript.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/typescript-icon.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/react.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/graphql.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/nextjs.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/nestjs.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/go.svg"></code>
 <code><img height="20" src="https://cdn.svgporn.com/logos/gatsby.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/php.svg"></code>
+<code><img height="20" src="https://cdn.svgporn.com/logos/laravel.svg"></code>
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 
