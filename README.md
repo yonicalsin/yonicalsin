@@ -16,13 +16,13 @@
 <br />
 <br />
 
-Hi, I'm Yoni Calsin, a passionate self-taught front-end web developer from Peru.
+Hi, I'm Yoni Calsin, a passionate self-taught web developer (frontend, backend) from Peru.
 <br />
 
-- 🏆 Subscribe to my newsletter [here](https://yonicalsin.netlify.app/contacto/)
+- 🏆 Subscribe to my newsletter [here](https://yonicalsin.netlify.app/)
 - 🌍 My web development blog [yonicalsin.netlify.app](http://yonicalsin.netlify.app/)
-- 🔭 I’m currently working on my project [Cogenv](https://github.com/yonicalsin/cogenv)
-- 🌱 I’m currently learning GraphQL & Typescript
+- 🔭 I’m currently working on my project [Dotenv Cloack](https://github.com/yonicalsin/dotenv-cloack)
+- 🌱 I’m currently learning [Dart](https://dart.dev/) & [Flutter](https://flutter.dev/) & [Firebase](https://firebase.google.com/) & Android
 - 👯 I’m looking to collaborate on [NestJs](https://github.com/nestjs/nest)
 - 💬 Ask me about anything [here](https://github.com/yonicalsin/yonicalsin/issues)
 
@@ -54,7 +54,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonicalsin&layout=compact&theme=radical" />
 </a>
 <a href="https://github.com/yonicalsin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yonicalsin&show_icons=true&theme=radical&line_height=27" alt="" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yonicalsin&show_icons=true&theme=radical&line_height=27&include_all_commits=true" alt="" />
 </a>
 
 <a href="https://github.com/nestjs/nest">
