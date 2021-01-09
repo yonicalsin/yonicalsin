@@ -16,4 +16,4 @@
 <br />
 <br />
 
-Hi, I'm Yony Calsin, a passionate self-taught web developer (frontend, backend) from Peru.
+Hi, I'm Yony Calsin, a passionate self-taught frontend engineer from Peru.
