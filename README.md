@@ -17,31 +17,3 @@
 <br />
 
 Hi, I'm Yony Calsin, a passionate self-taught web developer (frontend, backend) from Peru.
-<br />
-
-- 🏆 Subscribe to my newsletter [here](https://yonycalsin.netlify.app/)
-- 🌍 My web development blog [yonicalsin.netlify.app](http://yonycalsin.netlify.app/)
-- 🔭 I’m currently working on my project [Dotenv Cloack](https://github.com/yonycalsin/dotenv-cloack)
-- 🌱 I’m currently learning [Dart](https://dart.dev/) & [Flutter](https://flutter.dev/) & [Firebase](https://firebase.google.com/) & Android
-- 👯 I’m looking to collaborate on [NestJs](https://github.com/nestjs/nest)
-- 💬 Ask me about anything [here](https://github.com/yonicalsin/yonicalsin/issues)
-
-**Languages and Tools:**
-
-
-
-_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
-
-<a href="https://github.com/yonycalsin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonycalsin&layout=compact&theme=radical" />
-</a>
-<a href="https://github.com/yonycalsin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yonycalsin&show_icons=true&theme=radical&line_height=27&include_all_commits=true" alt="" />
-</a>
-
-<a href="https://github.com/nestjs/nest">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nestjs&repo=nest&theme=radical" />
-</a>    
-<a href="https://github.com/react-hook-form/react-hook-form">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=react-hook-form&repo=react-hook-form&theme=radical" />
-</a>
