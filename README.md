@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/yonycalsin?template=terminal&isocalendar=1&followup=1&languages=1&pagespeed=1&stars=1&tweets=1&pagespeed.detailed=false&pagespeed.screenshot=false&isocalendar.duration=half-year&tweets.limit=2&stars.limit=4&config.timezone=America%2FLima)
+![Metrics](github-metrics.svg)
