@@ -27,6 +27,6 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_stars: yes
-          plugin_stars_limit: 4
+          plugin_stars_limit: 5
           plugin_tweets: yes
           plugin_tweets_limit: 2
