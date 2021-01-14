@@ -910,15 +910,6 @@
               <div class="entry">
                 <span class="value">184</span>
                 <div class="bar" style="height: NaNpx; background-color: var(--color-calendar-graph-day-LNaN-bg)"></div>
-                31
-                
-                  <div class="bottom">Dec.</div>
-                
-              </div>
-            
-              <div class="entry">
-                <span class="value"></span>
-                <div class="bar" style="height: NaNpx; background-color: var(--color-calendar-graph-day-LNaN-bg)"></div>
                 1
                 
                   <div class="bottom">Jan.</div>
@@ -1009,20 +1000,18 @@
                 
               </div>
             
+              <div class="entry">
+                <span class="value"></span>
+                <div class="bar" style="height: NaNpx; background-color: var(--color-calendar-graph-day-LNaN-bg)"></div>
+                14
+                
+              </div>
+            
           </div>
         </section>
         <section class="column chart">
           <h3>New stargazers per day</h3>
           <div class="chart-bars">
-            
-              <div class="entry">
-                <span class="value"></span>
-                <div class="bar" style="height: NaNpx; background-color: var(--color-calendar-graph-day-LNaN-bg)"></div>
-                31
-                
-                <div class="bottom">Dec.</div>
-                
-              </div>
             
               <div class="entry">
                 <span class="value"></span>
@@ -1117,6 +1106,13 @@
                 
               </div>
             
+              <div class="entry">
+                <span class="value"></span>
+                <div class="bar" style="height: NaNpx; background-color: var(--color-calendar-graph-day-LNaN-bg)"></div>
+                14
+                
+              </div>
+            
           </div>
         </section>
       </div>
@@ -1142,7 +1138,7 @@
                   
                   <div class="name">
                     <span>popperjs/react-popper</span>
-                    <span>starred 1 hour ago</span>
+                    <span>starred 3 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -1189,7 +1185,7 @@
                   
                   <div class="name">
                     <span>inversify/InversifyJS</span>
-                    <span>starred 9 hours ago</span>
+                    <span>starred 10 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -1236,7 +1232,7 @@
                   
                   <div class="name">
                     <span>express-promise-router/express-promise-router</span>
-                    <span>starred 9 hours ago</span>
+                    <span>starred 10 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
