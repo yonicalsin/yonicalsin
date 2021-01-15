@@ -290,11 +290,11 @@
         </div>
       </div>
 
-<pre><div class="banner">Metrics generator 3.1.0
+<pre><div class="banner">Metrics generator 3.2.0
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: Fri, 15 Jan 2021 18:18:58 GMT
+Last generated: Fri, 15 Jan 2021 19:47:55 GMT
 </div>
 <div class="stdin"><span class="ps1-path">yonycalsin@metrics</span>:<span class="ps1-location">~</span>$ whoami</div><div class="stdout"><b>Yony Calsin</b> registered=1y, uid=0737, gid=6
   contributed to 22 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#30a14e">#</span><span style="color:#216e39">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span></b>
@@ -309,41 +309,41 @@ Last generated: Fri, 15 Jan 2021 18:18:58 GMT
 
 <b>Tracked activity</b>
   <b>  632</b> users followed
-  <b>    0</b> repository sponsored
+  <b>    0</b> repositories sponsored
   <b> 1866</b> repositories starred
   <b>   62</b> repositories watched
 </div>
-<div class="stdin"><span class="ps1-path">yonycalsin@metrics</span>:<span class="ps1-location">~</span>$ ls -lh github/repositories</div><div class="stdout">Total 66 repositories - 78.6 MB
--r--  <b>  184</b>  stargazers
+<div class="stdin"><span class="ps1-path">yonycalsin@metrics</span>:<span class="ps1-location">~</span>$ ls -lh github/repositories</div><div class="stdout">Total 68 repositories - 91.7 MB
+-r--  <b>  186</b>  stargazers
 -r--  <b>    1</b>  fork
--r--  <b>   62</b>  watchers
-dr-x  <b>    0</b>  package
+-r--  <b>   64</b>  watchers
+dr-x  <b>    0</b>  packages
 dr-x  <b>   11</b>  ISSUES
 -r--  <b>    3</b>  ├── open
 -r--  <b>    8</b>  └── closed
 dr-x  <b>   11</b>  PULL_REQUESTS
--r--  <b>   68</b>  ├── open
--r--  <b>  179</b>  └── merged
+-r--  <b>   90</b>  ├── open
+-r--  <b>  223</b>  └── merged
 dr-x         LICENSE
 -r--         └── MIT
 </div>
-<div class="stdin"><span class="ps1-path">yonycalsin@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>JAVASCRIPT  </b> [##########          ] 45.15%
-<b>TYPESCRIPT  </b> [######              ] 29.19%
-<b>SCSS        </b> [###                 ] 12.96%
-<b>CSS         </b> [##                  ] 5.25 %
-<b>HTML        </b> [#                   ] 2.61 %
-<b>DART        </b> [#                   ] 2.50 %
-<b>GO          </b> [#                   ] 1.91 %
-<b>SWIFT       </b> [#                   ] 0.14 %
+<div class="stdin"><span class="ps1-path">yonycalsin@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>JAVASCRIPT  </b> [#########           ] 40.04%
+<b>TYPESCRIPT  </b> [#######             ] 32.51%
+<b>SCSS        </b> [####                ] 15.70%
+<b>CSS         </b> [#                   ] 4.62 %
+<b>HTML        </b> [#                   ] 2.87 %
+<b>DART        </b> [#                   ] 2.20 %
+<b>GO          </b> [#                   ] 1.68 %
+<b>SWIFT       </b> [#                   ] 0.13 %
 </div>
-<div class="stdin"><span class="ps1-path">yonycalsin@metrics</span>:<span class="ps1-location">~</span>$ curl -I yonycalsin.netlify.app</div><div class="stdout"><b>User-Agent</b>: Google PageSpeed API
-<b>Location</b>: yonycalsin.netlify.app
-<b>X-Performance</b>: 98%
+<div class="stdin"><span class="ps1-path">yonycalsin@metrics</span>:<span class="ps1-location">~</span>$ curl -I https://yonycalsin.netlify.app</div><div class="stdout"><b>User-Agent</b>: Google PageSpeed API
+<b>Location</b>: https://yonycalsin.netlify.app
+<b>X-Performance</b>: 96%
 <b>X-Accessibility</b>: 78%
 <b>X-Best-Practices</b>: 93%
 <b>X-SEO</b>: 91%
 </div>
-<footer>Connection reset by 8.59.247.182</footer></pre>
+<footer>Connection reset by 238.132.84.202</footer></pre>
 
       <div id="metrics-end"></div>
     </div>
