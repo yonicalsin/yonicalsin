@@ -18,7 +18,7 @@ jobs:
 
           # Options
           user: yonycalsin
-          template: terminal
+          template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Lima
           plugin_followup: yes
