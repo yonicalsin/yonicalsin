@@ -914,8 +914,8 @@
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
                 
-                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="322.42 329"/>
-                  <text x="60" y="60" dominant-baseline="central">98</text>
+                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="319.13 329"/>
+                  <text x="60" y="60" dominant-baseline="central">97</text>
                 
               </svg>
               <span class="title">Performance</span>
@@ -1969,7 +1969,7 @@
                   
                   <div class="name">
                     <span>iamhosseindhv/notistack</span>
-                    <span>starred 14 hours ago</span>
+                    <span>starred 15 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2016,7 +2016,7 @@
                   
                   <div class="name">
                     <span>date-fns/date-fns</span>
-                    <span>starred 14 hours ago</span>
+                    <span>starred 15 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2063,7 +2063,7 @@
                   
                   <div class="name">
                     <span>tc39/proposal-record-tuple</span>
-                    <span>starred 14 hours ago</span>
+                    <span>starred 15 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2207,7 +2207,7 @@
       
         <footer>
           <span>These metrics do not include all private contributions, timezone America/Lima</span>
-          <span>Last updated Mon, 18 Jan 2021 07:38:21 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Mon, 18 Jan 2021 08:33:36 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
