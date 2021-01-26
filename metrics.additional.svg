@@ -92,6 +92,10 @@
     margin: 0 6px;
   }
 
+  .avatar.organization {
+    border-radius: 15%;
+  }
+
 /* Commit calendar */
   .calendar.field {
     margin: 4px 0;
@@ -1302,7 +1306,7 @@
                   
                   <div class="name">
                     <span>atapas/js-tips-tricks</span>
-                    <span>starred 2 days ago</span>
+                    <span>starred 3 days ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -1344,10 +1348,12 @@
       
         
       
-        <div class="row">
-  
-  
-</div>
+        
+  <div class="row">
+    
+    
+  </div>
+
       
         
       
