@@ -1085,16 +1085,9 @@
               <div class="entry">
                 <span class="value">184</span>
                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                2
+                3
                 
                   <div class="bottom">Feb.</div>
-                
-              </div>
-            
-              <div class="entry">
-                <span class="value"></span>
-                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                3
                 
               </div>
             
@@ -1182,6 +1175,13 @@
                 
               </div>
             
+              <div class="entry">
+                <span class="value"></span>
+                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                16
+                
+              </div>
+            
           </div>
         </section>
         <section class="column chart">
@@ -1191,16 +1191,9 @@
               <div class="entry">
                 <span class="value"></span>
                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                2
+                3
                 
                 <div class="bottom">Feb.</div>
-                
-              </div>
-            
-              <div class="entry">
-                <span class="value"></span>
-                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                3
                 
               </div>
             
@@ -1288,6 +1281,13 @@
                 
               </div>
             
+              <div class="entry">
+                <span class="value"></span>
+                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                16
+                
+              </div>
+            
           </div>
         </section>
       </div>
@@ -1313,7 +1313,7 @@
                   
                   <div class="name">
                     <span>github/opensource.guide</span>
-                    <span>starred 6 hours ago</span>
+                    <span>starred 7 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -1360,7 +1360,7 @@
                   
                   <div class="name">
                     <span>lookfirst/mui-rff</span>
-                    <span>starred 7 hours ago</span>
+                    <span>starred 8 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -1407,7 +1407,7 @@
                   
                   <div class="name">
                     <span>octokit/request.js</span>
-                    <span>starred 24 hours ago</span>
+                    <span>starred 1 day ago</span>
                   </div>
                 </div>
                 <div class="field description">
