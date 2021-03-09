@@ -199,6 +199,9 @@
   .gauge.low {
     color: #e53935;
   }
+  .gauge.info {
+    color: #58A6FF;
+  }
   .gauge-base, .gauge-arc {
     stroke: currentColor;
     stroke-width: 10;
@@ -1471,7 +1474,7 @@
                   
                   <div class="name">
                     <span>typescript-eslint/tslint-to-eslint-config</span>
-                    <span>starred 2 hours ago</span>
+                    <span>starred 3 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -1626,6 +1629,8 @@
       
         
 
+      
+        
       
         
       
