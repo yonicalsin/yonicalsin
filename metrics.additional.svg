@@ -1300,16 +1300,9 @@
               <div class="entry">
                 <span class="value">189</span>
                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                27
+                28
                 
                   <div class="bottom">Feb.</div>
-                
-              </div>
-            
-              <div class="entry">
-                <span class="value"></span>
-                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                28
                 
               </div>
             
@@ -1399,6 +1392,13 @@
                 
               </div>
             
+              <div class="entry">
+                <span class="value"></span>
+                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                13
+                
+              </div>
+            
           </div>
         </section>
         <section class="column chart">
@@ -1406,18 +1406,11 @@
           <div class="chart-bars">
             
               <div class="entry">
-                <span class="value">+2</span>
-                <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                27
-                
-                <div class="bottom">Feb.</div>
-                
-              </div>
-            
-              <div class="entry">
                 <span class="value"></span>
                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                 28
+                
+                <div class="bottom">Feb.</div>
                 
               </div>
             
@@ -1507,6 +1500,13 @@
                 
               </div>
             
+              <div class="entry">
+                <span class="value"></span>
+                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                13
+                
+              </div>
+            
           </div>
         </section>
       </div>
@@ -1532,7 +1532,7 @@
                   
                   <div class="name">
                     <span>eslint/eslint</span>
-                    <span>starred 24 hours ago</span>
+                    <span>starred 1 day ago</span>
                   </div>
                 </div>
                 <div class="field description">
