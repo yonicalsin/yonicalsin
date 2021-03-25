@@ -1349,11 +1349,11 @@
             </div>
           
             <div class="categorie column">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
                 
-                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="299.39 329"/>
-                  <text x="60" y="60" dominant-baseline="central">91</text>
+                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="269.78 329"/>
+                  <text x="60" y="60" dominant-baseline="central">82</text>
                 
               </svg>
               <span class="title">SEO</span>
@@ -2394,7 +2394,7 @@
                   
                   <div class="name">
                     <span>streamich/use-media</span>
-                    <span>starred 10 hours ago</span>
+                    <span>starred 11 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2436,7 +2436,7 @@
                   
                   <div class="name">
                     <span>contra/react-responsive</span>
-                    <span>starred 10 hours ago</span>
+                    <span>starred 11 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2483,7 +2483,7 @@
                   
                   <div class="name">
                     <span>FormidableLabs/spectacle</span>
-                    <span>starred 12 hours ago</span>
+                    <span>starred 13 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2645,7 +2645,7 @@
           
             <span>These metrics do not include all private contributions, timezone America/Lima</span>
           
-          <span>Last updated Thu, 25 Mar 2021 03:07:15 GMT with lowlighter/metrics@3.5.0</span>
+          <span>Last updated Thu, 25 Mar 2021 04:05:42 GMT with lowlighter/metrics@3.5.0</span>
         </footer>
       
       <div id="metrics-end"></div>
