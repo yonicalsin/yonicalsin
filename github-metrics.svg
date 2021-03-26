@@ -1319,8 +1319,8 @@
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
                 
-                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="240.17 329"/>
-                  <text x="60" y="60" dominant-baseline="central">73</text>
+                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="279.65 329"/>
+                  <text x="60" y="60" dominant-baseline="central">85</text>
                 
               </svg>
               <span class="title">Performance</span>
@@ -2615,7 +2615,7 @@
           
             <span>These metrics do not include all private contributions, timezone America/Lima</span>
           
-          <span>Last updated Fri, 26 Mar 2021 00:10:52 GMT with lowlighter/metrics@3.5.0</span>
+          <span>Last updated Fri, 26 Mar 2021 01:18:41 GMT with lowlighter/metrics@3.5.0</span>
         </footer>
       
       <div id="metrics-end"></div>
