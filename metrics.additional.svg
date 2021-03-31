@@ -1193,10 +1193,8 @@
                         17
                     </div>
                     <div class="entry">
-                        <span class="value">
-                            2
-                        </span>
-                        <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        <span class="value"></span>
+                        <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                         18
                     </div>
                     <div class="entry">
@@ -1238,14 +1236,14 @@
                             <span class="value">
                                 1
                             </span>
-                            <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             Sun
                         </div>
                         <div class="entry">
                             <span class="value">
                                 3
                             </span>
-                            <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             Mon
                         </div>
                         <div class="entry">
@@ -1255,7 +1253,7 @@
                         </div>
                         <div class="entry">
                             <span class="value">
-                                5
+                                3
                             </span>
                             <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             Wed
@@ -1264,7 +1262,7 @@
                             <span class="value">
                                 2
                             </span>
-                            <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             Thu
                         </div>
                         <div class="entry">
@@ -1276,7 +1274,7 @@
                             <span class="value">
                                 2
                             </span>
-                            <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             Sat
                         </div>
                     </div>
@@ -1290,27 +1288,27 @@
                             <span class="name">
                                 TypeScript
                             </span>
-                            <div class="bar" style="width: 45.431999999999995%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="width: 49.008%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             <span class="value">
-                                57%
+                                61%
                             </span>
                         </div>
                         <div class="entry">
                             <span class="name">
                                 SCSS
                             </span>
-                            <div class="bar" style="width: 20.512%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 22.959999999999997%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">
-                                26%
+                                29%
                             </span>
                         </div>
                         <div class="entry">
                             <span class="name">
                                 JavaScript
                             </span>
-                            <div class="bar" style="width: 14.056%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 8.032%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
-                                18%
+                                10%
                             </span>
                         </div>
                     </div>
@@ -1524,7 +1522,7 @@
                                             vitejs/vite-plugin-react
                                         </span>
                                         <span>
-                                            starred 5 hours ago
+                                            starred 6 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -1582,7 +1580,7 @@
                                             edelstone/material-palette-generator
                                         </span>
                                         <span>
-                                            starred 17 hours ago
+                                            starred 18 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -1634,7 +1632,7 @@
                                             ohmybash/oh-my-bash
                                         </span>
                                         <span>
-                                            starred 20 hours ago
+                                            starred 21 hours ago
                                         </span>
                                     </div>
                                 </div>
