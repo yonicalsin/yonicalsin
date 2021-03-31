@@ -1171,8 +1171,8 @@
             <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
           </mask>
           <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-          <rect mask="url(#issues-bar)" x="0" y="0" width="146.66666666666666" height="8" fill="#d73a49"/>
-          <rect mask="url(#issues-bar)" x="146.66666666666666" y="0" width="73.33333333333334" height="8" fill="#28a745"/>
+          <rect mask="url(#issues-bar)" x="0" y="0" width="135.3846153846154" height="8" fill="#d73a49"/>
+          <rect mask="url(#issues-bar)" x="135.3846153846154" y="0" width="84.61538461538461" height="8" fill="#28a745"/>
         </svg>
         <div class="field horizontal fill-width">
           <div class="field center">
@@ -1181,7 +1181,7 @@
           </div>
           <div class="field center">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#28a745" fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/></svg>
-            <span class="no-wrap">4 Open</span>
+            <span class="no-wrap">5 Open</span>
           </div>
         </div>
       
@@ -1316,11 +1316,11 @@
         <section class="categories">
           
             <div class="categorie column">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
                 
-                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="259.91 329"/>
-                  <text x="60" y="60" dominant-baseline="central">79</text>
+                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="315.84 329"/>
+                  <text x="60" y="60" dominant-baseline="central">96</text>
                 
               </svg>
               <span class="title">Performance</span>
@@ -2389,7 +2389,7 @@
                   
                   <div class="name">
                     <span>edelstone/material-palette-generator</span>
-                    <span>starred 7 hours ago</span>
+                    <span>starred 8 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2431,7 +2431,7 @@
                   
                   <div class="name">
                     <span>ohmybash/oh-my-bash</span>
-                    <span>starred 10 hours ago</span>
+                    <span>starred 11 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2478,7 +2478,7 @@
                   
                   <div class="name">
                     <span>vim-awesome/vim-awesome</span>
-                    <span>starred 11 hours ago</span>
+                    <span>starred 12 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2525,7 +2525,7 @@
                   
                   <div class="name">
                     <span>rescript-lang/rescript-compiler</span>
-                    <span>starred 11 hours ago</span>
+                    <span>starred 12 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2572,7 +2572,7 @@
                   
                   <div class="name">
                     <span>carlosazaustre/twitch-chat-raspi-leds</span>
-                    <span>starred 12 hours ago</span>
+                    <span>starred 13 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2645,7 +2645,7 @@
           
             <span>These metrics do not include all private contributions, timezone America/Lima</span>
           
-          <span>Last updated Wed, 31 Mar 2021 08:04:06 GMT with lowlighter/metrics@3.5.0</span>
+          <span>Last updated Wed, 31 Mar 2021 09:03:32 GMT with lowlighter/metrics@3.5.0</span>
         </footer>
       
       <div id="metrics-end"></div>
