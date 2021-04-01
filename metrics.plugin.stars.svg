@@ -87,6 +87,9 @@
   .margin-bottom {
     margin-bottom: 16px;
   }
+  .no-margin-top {
+    margin-top: 0px;
+  }
 
 /* User avatar */
   .avatar {
@@ -1029,7 +1032,7 @@
                                             you-dont-need/You-Dont-Need-Momentjs
                                         </span>
                                         <span>
-                                            starred 8 hours ago
+                                            starred 9 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -1087,7 +1090,7 @@
                                             felixge/node-dateformat
                                         </span>
                                         <span>
-                                            starred 8 hours ago
+                                            starred 9 hours ago
                                         </span>
                                     </div>
                                 </div>
