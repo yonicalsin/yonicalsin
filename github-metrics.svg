@@ -1375,9 +1375,9 @@
                         <div class="categorie column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="312.55 329"/>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="309.26 329"/>
                                 <text x="60" y="60" dominant-baseline="central">
-                                    95
+                                    94
                                 </text>
                             </svg>
                             <span class="title">
@@ -2479,7 +2479,7 @@
                                             aweary/tinytime
                                         </span>
                                         <span>
-                                            starred 8 hours ago
+                                            starred 9 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -2537,7 +2537,7 @@
                                             isaacs/nave
                                         </span>
                                         <span>
-                                            starred 14 hours ago
+                                            starred 15 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -2595,7 +2595,7 @@
                                             pvdlg/uprogress
                                         </span>
                                         <span>
-                                            starred 19 hours ago
+                                            starred 20 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -2654,7 +2654,7 @@
                                                 xojs/eslint-config-xo-react
                                             </span>
                                             <span>
-                                                starred 19 hours ago
+                                                starred 20 hours ago
                                             </span>
                                         </div>
                                     </div>
@@ -2712,7 +2712,7 @@
                                                 xojs/xo
                                             </span>
                                             <span>
-                                                starred 19 hours ago
+                                                starred 20 hours ago
                                             </span>
                                         </div>
                                     </div>
@@ -2767,7 +2767,7 @@
                         These metrics do not include all private contributions, timezone America/Lima
                     </span>
                     <span>
-                        Last updated Mon, 05 Apr 2021 09:03:32 GMT with lowlighter/metrics@3.6.0
+                        Last updated Mon, 05 Apr 2021 10:03:22 GMT with lowlighter/metrics@3.6.0
                     </span>
                 </footer>
                 <div id="metrics-end"></div>
