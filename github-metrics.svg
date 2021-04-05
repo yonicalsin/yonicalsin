@@ -2479,7 +2479,7 @@
                                             mixpanel/mixpanel-node
                                         </span>
                                         <span>
-                                            starred 1 hour ago
+                                            starred 2 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -2537,7 +2537,7 @@
                                             aweary/tinytime
                                         </span>
                                         <span>
-                                            starred 16 hours ago
+                                            starred 17 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -2595,7 +2595,7 @@
                                             isaacs/nave
                                         </span>
                                         <span>
-                                            starred 22 hours ago
+                                            starred 23 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -2767,7 +2767,7 @@
                         These metrics do not include all private contributions, timezone America/Lima
                     </span>
                     <span>
-                        Last updated Mon, 05 Apr 2021 17:21:01 GMT with lowlighter/metrics@3.6.0
+                        Last updated Mon, 05 Apr 2021 18:13:10 GMT with lowlighter/metrics@3.6.0
                     </span>
                 </footer>
                 <div id="metrics-end"></div>
