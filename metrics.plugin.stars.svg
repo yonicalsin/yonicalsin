@@ -937,6 +937,12 @@
     stroke: rgba(127, 127, 127, 0.4) !important;
   }
 
+/* Autosize */
+  .autosize {
+    width: auto;
+    height: auto;
+  }
+
 /* Fade animation */
   .af {
     opacity: 0;
@@ -1032,7 +1038,7 @@
                                             prettier/vim-prettier
                                         </span>
                                         <span>
-                                            starred 22 hours ago
+                                            starred 23 hours ago
                                         </span>
                                     </div>
                                 </div>
