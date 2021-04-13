@@ -1375,9 +1375,9 @@
                         <div class="categorie column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="312.55 329"/>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="315.84 329"/>
                                 <text x="60" y="60" dominant-baseline="central">
-                                    95
+                                    96
                                 </text>
                             </svg>
                             <span class="title">
@@ -2484,7 +2484,7 @@
                                             developit/workerize
                                         </span>
                                         <span>
-                                            starred 8 hours ago
+                                            starred 9 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -2536,7 +2536,7 @@
                                             developit/microbundle
                                         </span>
                                         <span>
-                                            starred 8 hours ago
+                                            starred 9 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -2594,7 +2594,7 @@
                                             developit/htm
                                         </span>
                                         <span>
-                                            starred 8 hours ago
+                                            starred 9 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -2652,7 +2652,7 @@
                                             developit/mitt
                                         </span>
                                         <span>
-                                            starred 8 hours ago
+                                            starred 9 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -2704,7 +2704,7 @@
                                             neciu/react-mixpanel
                                         </span>
                                         <span>
-                                            starred 13 hours ago
+                                            starred 14 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -2753,7 +2753,7 @@
                     These metrics do not include all private contributions, timezone America/Lima
                 </span>
                 <span>
-                    Last updated Tue, 13 Apr 2021 07:07:00 GMT with lowlighter/metrics@3.6.0
+                    Last updated Tue, 13 Apr 2021 08:03:35 GMT with lowlighter/metrics@3.6.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
