@@ -1405,9 +1405,9 @@
                         <div class="categorie column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="312.55 329"/>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="315.84 329"/>
                                 <text x="60" y="60" dominant-baseline="central">
-                                    95
+                                    96
                                 </text>
                             </svg>
                             <span class="title">
@@ -2509,7 +2509,7 @@
                                             chantastic/react-patterns
                                         </span>
                                         <span>
-                                            starred 5 hours ago
+                                            starred 6 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -2561,7 +2561,7 @@
                                             chantastic/sites
                                         </span>
                                         <span>
-                                            starred 5 hours ago
+                                            starred 6 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -2612,7 +2612,7 @@
                                             muhammadsammy/tailwindcss-classnames
                                         </span>
                                         <span>
-                                            starred 5 hours ago
+                                            starred 6 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -2670,7 +2670,7 @@
                                             tailwindlabs/tailwindcss-from-zero-to-production
                                         </span>
                                         <span>
-                                            starred 5 hours ago
+                                            starred 6 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -2722,7 +2722,7 @@
                                             tailwindlabs/tailwindcss-jit
                                         </span>
                                         <span>
-                                            starred 5 hours ago
+                                            starred 6 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -2776,7 +2776,7 @@
                     These metrics do not include all private contributions, timezone America/Lima
                 </span>
                 <span>
-                    Last updated Mon, 19 Apr 2021 09:03:18 GMT with lowlighter/metrics@3.7.0
+                    Last updated Mon, 19 Apr 2021 10:03:22 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
