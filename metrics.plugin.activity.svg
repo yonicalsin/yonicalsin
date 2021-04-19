@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="459" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="298" class="">
     <defs>
         <style/>
     </defs>
@@ -1127,53 +1127,6 @@
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">add-eslint-plugin-to-sort-imports</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#a35edbf</span>
-                                        <span class="message">chore(deps-dev): bump @commitlint/cli from 12.0.1 to 12.1.1
-
-Bumps [@commitlint/cli](https://github.com/conventional-changelog/commitlint) from 12.0.1 to 12.1.1.
-- [Release notes](https://github.com/conventional-changelog/commitlint/releases)
-- [Changelog](https://github.com/conventional-changelog/commitlint/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/conventional-changelog/commitlint/compare/v12.0.1...v12.1.1)
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#1b661e3</span>
-                                        <span class="message">fix(deps): update dependency rxjs to v6.6.7</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#53ec9ef</span>
-                                        <span class="message">fix(deps): update dependency mongodb to v3.6.6</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#93e7fd1</span>
-                                        <span class="message">relative path ../interfaces/... is equal to ./...</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#dbff7e5</span>
-                                        <span class="message">Merge pull request #6849 from caucik/patch-1
-
-unnecessary referencing parent directory in import</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#3056541</span>
-                                        <span class="message">Merge pull request #6801 from nestjs/renovate/rxjs-6.x
-
-fix(deps): update dependency rxjs to v6.6.7</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#930e845</span>
-                                        <span class="message">Merge pull request #6847 from nestjs/renovate/mongodb-3.x
-
-fix(deps): update dependency mongodb to v3.6.6</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#ca489b3</span>
-                                        <span class="message">Merge pull request #6845 from nestjs/dependabot/npm_and_yarn/commitlint/cli-12.1.1
-
-chore(deps-dev): bump @commitlint/cli from 12.0.1 to 12.1.1</span>
-                                    </div>
                                     <div class="commit">
                                         <span class="sha">#cba7ebb</span>
                                         <span class="message">Merge branch 'master' into add-eslint-plugin-to-sort-imports</span>
