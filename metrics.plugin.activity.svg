@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="642" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="606" class="">
     <defs>
         <style/>
     </defs>
@@ -1109,6 +1109,53 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 8 commits in <span class="repo">cibyar/hyperfront</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#4ab5652</span>
+                                        <span class="message">feat: 🎸 update produt screen</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#3faa519</span>
+                                        <span class="message">feat: 🎸 use gallery, and its information</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#4b336f3</span>
+                                        <span class="message">feat: 🎸 create Gallery component</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#44adef0</span>
+                                        <span class="message">feat: 🎸 add inherit to maxWidth</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#766ea10</span>
+                                        <span class="message">feat: 🎸 add sticky to main-header</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#5c84690</span>
+                                        <span class="message">feat: 🎸 add scroll style, and custom container</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#8fd5d7a</span>
+                                        <span class="message">feat: 🎸 add link to product component</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#d51c5e0</span>
+                                        <span class="message">feat: 🎸 add product and store screen</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 1 commit in <span class="repo">cibyar/hyperfront</span>
                     </div>
                                 </div>
@@ -1195,61 +1242,6 @@
                                     <div class="commit">
                                         <span class="sha">#0603542</span>
                                         <span class="message">feat: 🎸 change stack to tailwind</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 10 commits in <span class="repo">cibyar/hyperfront</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#3045f31</span>
-                                        <span class="message">feat: 🎸 update tailwind config</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#0c174de</span>
-                                        <span class="message">refactor: 💡 change to tailwind the some screens</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#6f224d1</span>
-                                        <span class="message">refactor: 💡 use tailwind in layouts</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#12b36b3</span>
-                                        <span class="message">refactor: 💡 purge OrderInline</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#31530b9</span>
-                                        <span class="message">refactor: 💡 update useFormField</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#25b1118</span>
-                                        <span class="message">feat: 🎸 update menu-oitem</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#464fce6</span>
-                                        <span class="message">chore: 🤖 revert</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#e7f2566</span>
-                                        <span class="message">feat: 🎸 support FormHelperText</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#6637aea</span>
-                                        <span class="message">refactor: 💡 purge card components</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#4e617c9</span>
-                                        <span class="message">refactor: 💡 change button to tailwindcss</span>
                                     </div>
                                 </div>
                             </section>
