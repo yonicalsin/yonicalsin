@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="568" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="497" class="">
     <defs>
         <style/>
     </defs>
@@ -1109,6 +1109,33 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 3 commits in <span class="repo">cibyar/hyperfront</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#5a64eb9</span>
+                                        <span class="message">refactor: 💡 change to tailwind</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#b50d62f</span>
+                                        <span class="message">refactor: 💡 change menu to tailwind</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#0603542</span>
+                                        <span class="message">feat: 🎸 change stack to tailwind</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 10 commits in <span class="repo">cibyar/hyperfront</span>
                     </div>
                                 </div>
@@ -1189,47 +1216,6 @@
                                 <div class="details">
                                     <div>opened by dependabot-preview[bot] in <span class="repo">cibyar/hyperapi</span></div>
                                     <div>2 files changed <span class="code">++117 --112</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 6 commits in <span class="repo">cibyar/hyperapi</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#d886b80</span>
-                                        <span class="message">Merge pull request #17 from cibyar/asset-domain
-
-feat: create Asset domain</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#a0f96e8</span>
-                                        <span class="message">feat: 🎸 add getAssets methods</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#a0163b0</span>
-                                        <span class="message">feat: 🎸 add assets to product dto</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#e7da828</span>
-                                        <span class="message">feat: 🎸 create AssetDTO and AssetCollectionDTO</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#1fe0ca6</span>
-                                        <span class="message">feat: 🎸 add assets to product</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#e8846d4</span>
-                                        <span class="message">feat: 🎸 create Asset domain</span>
-                                    </div>
                                 </div>
                             </section>
                         </div>
