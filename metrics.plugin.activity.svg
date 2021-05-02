@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="606" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="697" class="">
     <defs>
         <style/>
     </defs>
@@ -1109,6 +1109,53 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 8 commits in <span class="repo">yonycalsin/ts-isomorphic-cookie</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#50382d5</span>
+                                        <span class="message">chore: 🤖 tooling</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#5463b7a</span>
+                                        <span class="message">feat: 🎸 exporing all utils</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#fdf5c72</span>
+                                        <span class="message">feat: 🎸 add encoding uitl</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#e974226</span>
+                                        <span class="message">feat: 🎸 udpate tsconfig file</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#049bc4a</span>
+                                        <span class="message">feat: 🎸 add jest, and ts configuration files</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#6f9dbe9</span>
+                                        <span class="message">feat: 🎸 add basic test</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#d0e4254</span>
+                                        <span class="message">feat: 🎸 install main, and testing packages</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#016ed90</span>
+                                        <span class="message">refactor: 💡 create initial package.json</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 8 commits in <span class="repo">cibyar/hyperfront</span>
                     </div>
                                 </div>
@@ -1215,33 +1262,6 @@
                                     <div class="commit">
                                         <span class="sha">#4262107</span>
                                         <span class="message">fix: 🐛 fixes</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 3 commits in <span class="repo">cibyar/hyperfront</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#5a64eb9</span>
-                                        <span class="message">refactor: 💡 change to tailwind</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#b50d62f</span>
-                                        <span class="message">refactor: 💡 change menu to tailwind</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#0603542</span>
-                                        <span class="message">feat: 🎸 change stack to tailwind</span>
                                     </div>
                                 </div>
                             </section>
