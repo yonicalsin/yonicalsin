@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="697" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="823" class="">
     <defs>
         <style/>
     </defs>
@@ -1109,6 +1109,85 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 16 commits in <span class="repo">cibyar/hyperfront</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#a9d5997</span>
+                                        <span class="message">feat: 🎸 add queryClientProvider to main app</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#47faf7b</span>
+                                        <span class="message">feat: 🎸 add ensureSession guard</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#afbfb08</span>
+                                        <span class="message">feat: 🎸 add ensureAuthRouting guard</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#939bbc3</span>
+                                        <span class="message">feat: 🎸 add session</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#63be680</span>
+                                        <span class="message">feat: 🎸 install memoizerific</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#cf4769d</span>
+                                        <span class="message">feat: 🎸 create withQueryClient</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f5d5d2b</span>
+                                        <span class="message">feat: 🎸 create custom INextPageContext type</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#59c1d6f</span>
+                                        <span class="message">feat: 🎸 create redirectTo</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#cc68b7a</span>
+                                        <span class="message">chore: 🤖 use error</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#9a09d97</span>
+                                        <span class="message">feat: 🎸 use ring instead of boxShadow extended</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#416ef9a</span>
+                                        <span class="message">feat: 🎸 add custom server with express</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#fab7316</span>
+                                        <span class="message">feat: 🎸 create ensureSession util function</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#8ff3177</span>
+                                        <span class="message">fix: 🐛 remove eslint:recommended from extends</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#28e8a61</span>
+                                        <span class="message">feat: 🎸 create getCookieConfig funciton</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#7169fc8</span>
+                                        <span class="message">feat: 🎸 add types</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#4ee5ab2</span>
+                                        <span class="message">feat: 🎸 install axios,react-query, and cookie-handler packages</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 8 commits in <span class="repo">yonycalsin/ts-isomorphic-cookie</span>
                     </div>
                                 </div>
@@ -1211,57 +1290,6 @@
                                     <div class="commit">
                                         <span class="sha">#1b7ccaf</span>
                                         <span class="message">fix: 🐛 remove styled-components permanently</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 9 commits in <span class="repo">cibyar/hyperfront</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#fc8c719</span>
-                                        <span class="message">feat: 🎸 change Stack to tailwind and css variables</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#3afd1f0</span>
-                                        <span class="message">fix: 🐛 delete StyledAccountLayout</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#276d934</span>
-                                        <span class="message">refactor: 💡 change Counter to tailwind</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#a51d5ee</span>
-                                        <span class="message">refactor: 💡 delete AccountWithSidebarContainer</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#7072fbd</span>
-                                        <span class="message">fix: 🐛 delete StoryWrapper</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#c367af8</span>
-                                        <span class="message">refactor: 💡 change MenuItem to tailwind</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#89a88b0</span>
-                                        <span class="message">feat: 🎸 add padding-x to container</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#98b4b68</span>
-                                        <span class="message">fix: 🐛 remove GlobalStyle</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#4262107</span>
-                                        <span class="message">fix: 🐛 fixes</span>
                                     </div>
                                 </div>
                             </section>
