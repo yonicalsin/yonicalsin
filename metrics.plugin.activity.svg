@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1003" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1076" class="">
     <defs>
         <style/>
     </defs>
@@ -1109,6 +1109,57 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 9 commits in <span class="repo">cibyar/hyperfront</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#2f178d1</span>
+                                        <span class="message">refactor: 💡 purge graphql-schema</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#1b1d154</span>
+                                        <span class="message">fix: 🐛 fixes</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#8404b35</span>
+                                        <span class="message">feat: 🎸 add variant selector to product page</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#b2bc58c</span>
+                                        <span class="message">feat: 🎸 create refineOptions utils</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f9b1914</span>
+                                        <span class="message">feat: 🎸 create variant-selector</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f19f19e</span>
+                                        <span class="message">refactor: 💡 delete fallbackVariant</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#4c489bd</span>
+                                        <span class="message">feat: 🎸 export select component</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#df32f5d</span>
+                                        <span class="message">feat: 🎸 create select component</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#54eeece</span>
+                                        <span class="message">chore: 🤖 add eslint-react-hook plugin and its rules</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 20 commits in <span class="repo">cibyar/hyperfront</span>
                     </div>
                                 </div>
@@ -1295,39 +1346,6 @@
                                     <div class="commit">
                                         <span class="sha">#60e98dd</span>
                                         <span class="message">feat: 🎸 add header container to store profile</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 4 commits in <span class="repo">cibyar/hyperapi</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#c4d0973</span>
-                                        <span class="message">Merge pull request #29 from cibyar/update-product-variant-selected-option
-
-feat: rename to selected-option</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#a9c2847</span>
-                                        <span class="message">refactor: 💡 rename to selected-option</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#88184d1</span>
-                                        <span class="message">feat: 🎸 create product-option seeder</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#c90748c</span>
-                                        <span class="message">feat: 🎸 add options field to TypeProduct</span>
                                     </div>
                                 </div>
                             </section>
