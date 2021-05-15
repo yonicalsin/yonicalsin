@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="353" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="425" class="">
     <defs>
         <style/>
     </defs>
@@ -1109,6 +1109,49 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 7 commits in <span class="repo">yonycalsin/slugger</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#719580b</span>
+                                        <span class="message">feat: 🎸 add footer</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#84248d7</span>
+                                        <span class="message">feat: 🎸 add copy button</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#4e2dc56</span>
+                                        <span class="message">feat: 🎸 add output card</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a021a97</span>
+                                        <span class="message">style: 💄 formating</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#c3cb68d</span>
+                                        <span class="message">feat: 🎸 update vscode settings</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#acafde8</span>
+                                        <span class="message">style: 💄 formating</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#8d70d8e</span>
+                                        <span class="message">feat: 🎸 install slugify</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 2 commits in <span class="repo">yonycalsin/slugger</span>
                     </div>
                                 </div>
@@ -1159,33 +1202,6 @@
                                     <div class="commit">
                                         <span class="sha">#913d86d</span>
                                         <span class="message">feat: 🎸 install tailwindcss</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 3 commits in <span class="repo">yonycalsin/slugger</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#8dfd963</span>
-                                        <span class="message">fix: 🐛 delete readme</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#15679ad</span>
-                                        <span class="message">chore: 🤖 setup tailwindcss</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#cf1c5a0</span>
-                                        <span class="message">style: 💄 formating</span>
                                     </div>
                                 </div>
                             </section>
