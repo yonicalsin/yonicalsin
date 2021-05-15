@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="779" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="790" class="">
     <defs>
         <style/>
     </defs>
@@ -1105,14 +1105,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="298.2057014310086" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="298.2057014310086" y="0" width="120.99579684952074" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="419.20149828052934" y="0" width="20.545064123608146" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="439.7465624041375" y="0" width="11.273420051341942" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="451.0199824554794" y="0" width="6.290022764822698" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="457.3100052203021" y="0" width="1.6200373493781381" height="8" fill="#2c3e50"/>
-                    <rect mask="url(#languages-bar)" x="458.9300425696803" y="0" width="0.6000871844273543" height="8" fill="#ffac45"/>
-                    <rect mask="url(#languages-bar)" x="459.53012975410763" y="0" width="0.4698702458923757" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="297.23057182981034" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="297.23057182981034" y="0" width="120.60014182829764" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="417.830713658108" y="0" width="20.477881973537542" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="438.30859563164546" y="0" width="11.236556082792536" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="449.54515171443796" y="0" width="6.269454454556476" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="455.8146061689945" y="0" width="1.97252908177442" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="457.78713525076887" y="0" width="1.6147398437743063" height="8" fill="#2c3e50"/>
+                    <rect mask="url(#languages-bar)" x="459.40187509454324" y="0" width="0.5981249054567419" height="8" fill="#ffac45"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1136,16 +1136,16 @@
               Go
             </div>
                     <div class="field center no-wrap language">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#ff3e00" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+              Svelte
+            </div>
+                    <div class="field center no-wrap language">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#2c3e50" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
               Vue
             </div>
                     <div class="field center no-wrap language">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#ffac45" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
               Swift
-            </div>
-                    <div class="field center no-wrap language">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#ff3e00" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-              Svelte
             </div>
                 </div>
             </section>
@@ -1184,8 +1184,8 @@
               04
             </div>
                     <div class="entry">
-              <span class="value">4</span>
-              <div class="bar" style="height: 15.384615384615385px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">5</span>
+              <div class="bar" style="height: 19.230769230769234px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               05
             </div>
                     <div class="entry">
@@ -1315,8 +1315,8 @@
                 Fri
               </div>
                         <div class="entry">
-                <span class="value">10</span>
-                <div class="bar" style="height: 29.411764705882355px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">11</span>
+                <div class="bar" style="height: 32.35294117647059px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 Sat
               </div>
                     </div>
@@ -1326,22 +1326,27 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 55.760000000000005%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                            <span class="value">70%</span>
+                            <div class="bar" style="width: 55.279999999999994%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">69%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 23.040000000000003%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 22.840000000000003%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">29%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 0.976%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.968%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Svelte</span>
-                            <div class="bar" style="width: 0.22400000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.8160000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">1%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">HTML</span>
+                            <div class="bar" style="width: 0.09599999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -1552,7 +1557,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sveltejs/prettier-plugin-svelte</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1594,15 +1599,15 @@
                                     </svg>
                                     <div class="name">
                                         <span>yonycalsin/slugger</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
                                 </div>
                                 <div class="field infos">
                                     <div class="language">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      JavaScript
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#ff3e00" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      Svelte
                     </div>
                                     <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/></svg>
@@ -1631,7 +1636,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iamhosseindhv/notistack</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
