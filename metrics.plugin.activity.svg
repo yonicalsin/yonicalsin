@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="389" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="697" class="">
     <defs>
         <style/>
     </defs>
@@ -1109,6 +1109,116 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 19 commits in <span class="repo">cibyar/hyperfront</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#dfd44d9</span>
+                                        <span class="message">feat: 🎸 add isotypeUrl to dealer fragmente</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#521ffab</span>
+                                        <span class="message">feat: 🎸 add verified icon to store</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#c4effeb</span>
+                                        <span class="message">feat: 🎸 use content to store-page</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#1d85330</span>
+                                        <span class="message">feat: 🎸 create store query</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#195f77a</span>
+                                        <span class="message">feat: 🎸 the Badge component was forwared</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#97d1ee8</span>
+                                        <span class="message">feat: 🎸 the typography component was deprecated</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#dc3808d</span>
+                                        <span class="message">feat: 🎸 add QueryData to dealers type</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#63e6745</span>
+                                        <span class="message">feat: 🎸 add name field to dealer</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#683039d</span>
+                                        <span class="message">feat: 🎸 create DOM utils</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#c8b18f5</span>
+                                        <span class="message">feat: 🎸 create useSafeLayoutEffect, and useDisclosure</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#ae07a85</span>
+                                        <span class="message">feat: 🎸 add full to maxWidth values</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#cfe3f43</span>
+                                        <span class="message">fix: 🐛 set className, and add primary variant</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#29e4ecd</span>
+                                        <span class="message">feat: 🎸 add size prop</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#2ec34c7</span>
+                                        <span class="message">feat: 🎸 add dealer badge</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#19e2d32</span>
+                                        <span class="message">feat: 🎸 update button</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#6a0394f</span>
+                                        <span class="message">feat: 🎸 change className to wrapper</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#167c7b0</span>
+                                        <span class="message">feat: 🎸 create ColorSchemas for theme</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#57fba2d</span>
+                                        <span class="message">feat: 🎸 add tailwind to storybook</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#b529eef</span>
+                                        <span class="message">feat: 🎸 udpate to storybook</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">cibyar/hyperapi</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#6359349</span>
+                                        <span class="message">feat: 🎸 add isotypeUrl field to dealer model</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 5 commits in <span class="repo">yonycalsin/musica-adventista--webclient</span>
                     </div>
                                 </div>
@@ -1154,48 +1264,6 @@
                                     <div class="commit">
                                         <span class="sha">#2ca6a87</span>
                                         <span class="message">fix: 🐛 fixes</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 2 commits in <span class="repo">yonycalsin/musica-adventista--webclient</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#3333cb3</span>
-                                        <span class="message">feat: 🎸 setup tailwindcss</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#2726eba</span>
-                                        <span class="message">chore: 🤖 configure gatsby-plugin-root-import</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">yonycalsin/musica-adventista--webclient</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#cfffd21</span>
-                                        <span class="message">feat: 🎸 change to personal account</span>
                                     </div>
                                 </div>
                             </section>
