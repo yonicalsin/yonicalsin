@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="562" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="306" class="">
     <defs>
         <style/>
     </defs>
@@ -1165,6 +1165,25 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 1 commit in <span class="repo">riqra/back-office</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">add-lines-of-credit-view</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#e121969</span>
+                                        <span class="message">feat: 🎸 add whiteSpace: nowrap to table head</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 2 commits in <span class="repo">yonycalsin/adolfo--devocion-matutina-bot-nextjs</span>
                     </div>
                                 </div>
@@ -1219,89 +1238,6 @@
                                     <div class="commit">
                                         <span class="sha">#aee9437</span>
                                         <span class="message">fix: 🐛 fixes</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 17 commits in <span class="repo">yonycalsin/adolfo--devocion-matutina-bot-nextjs</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#27c62a0</span>
-                                        <span class="message">fix: 🐛 change to ISO DATE</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#d48bc38</span>
-                                        <span class="message">feat: 🎸 allow date query</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#c83d520</span>
-                                        <span class="message">fix: 🐛 change to current date</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#c3c090b</span>
-                                        <span class="message">feat: 🎸 remove unused imports</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#484822b</span>
-                                        <span class="message">style: 💄 remove semi</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#f6506d4</span>
-                                        <span class="message">feat: 🎸 create util main file</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#4af1cfb</span>
-                                        <span class="message">feat: 🎸 return articles from cache</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#672a293</span>
-                                        <span class="message">feat: 🎸 install http-status-codes</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#7fdbfd7</span>
-                                        <span class="message">feat: 🎸 add node-cache and lodash types</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#5e7af87</span>
-                                        <span class="message">feat: 🎸 add APP_WEBSITE_BASE_URL to constaints</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#a923640</span>
-                                        <span class="message">feat: 🎸 create Cache helper</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#857ee55</span>
-                                        <span class="message">feat: 🎸 create prettyFormat</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#d2f5ed1</span>
-                                        <span class="message">feat: 🎸 add cache to articles loader</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#6e21428</span>
-                                        <span class="message">feat: 🎸 create articles loader</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#cdd2586</span>
-                                        <span class="message">feat: 🎸 add alias and baseUrl</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#e791e46</span>
-                                        <span class="message">feat: 🎸 install nextjs-cors</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#0cca772</span>
-                                        <span class="message">style: 💄 formating</span>
                                     </div>
                                 </div>
                             </section>
