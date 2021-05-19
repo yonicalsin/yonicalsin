@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="275" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="562" class="">
     <defs>
         <style/>
     </defs>
@@ -1171,12 +1171,12 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#c8baba6</span>
-                                        <span class="message">refactor: 💡 change to typescript</span>
+                                        <span class="sha">#f4ebd24</span>
+                                        <span class="message">feat: 🎸 use articles loader in the old endpoint</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#e28482a</span>
-                                        <span class="message">chore: 🤖 setup typescript</span>
+                                        <span class="sha">#57d4bd5</span>
+                                        <span class="message">feat: 🎸 add sessionKeys constant</span>
                                     </div>
                                 </div>
                             </section>
@@ -1194,12 +1194,12 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#4235824</span>
-                                        <span class="message">fix: 🐛 formating</span>
+                                        <span class="sha">#7a68c08</span>
+                                        <span class="message">fix: 🐛 delete hello endpoint</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#2aa4b74</span>
-                                        <span class="message">feat: 🎸 install prettier</span>
+                                        <span class="sha">#5f7d4b4</span>
+                                        <span class="message">fix: 🐛 remove _app, and _document</span>
                                     </div>
                                 </div>
                             </section>
@@ -1217,8 +1217,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#0ff390c</span>
-                                        <span class="message">fix: 🐛 purge packages</span>
+                                        <span class="sha">#aee9437</span>
+                                        <span class="message">fix: 🐛 fixes</span>
                                     </div>
                                 </div>
                             </section>
@@ -1227,12 +1227,82 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8.878.392a1.75 1.75 0 00-1.756 0l-5.25 3.045A1.75 1.75 0 001 4.951v6.098c0 .624.332 1.2.872 1.514l5.25 3.045a1.75 1.75 0 001.756 0l5.25-3.045c.54-.313.872-.89.872-1.514V4.951c0-.624-.332-1.2-.872-1.514L8.878.392zM7.875 1.69a.25.25 0 01.25 0l4.63 2.685L8 7.133 3.245 4.375l4.63-2.685zM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432L2.5 5.677zm6.25 8.271l4.625-2.683a.25.25 0 00.125-.216V5.677L8.75 8.432v5.516z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Released
-                      <span class="bold">v1.0.0</span> of <span class="repo">yonycalsin/adolfo--devocion-matutina-bot-nextjs</span>
+                      Pushed 17 commits in <span class="repo">yonycalsin/adolfo--devocion-matutina-bot-nextjs</span>
                     </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#27c62a0</span>
+                                        <span class="message">fix: 🐛 change to ISO DATE</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#d48bc38</span>
+                                        <span class="message">feat: 🎸 allow date query</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#c83d520</span>
+                                        <span class="message">fix: 🐛 change to current date</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#c3c090b</span>
+                                        <span class="message">feat: 🎸 remove unused imports</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#484822b</span>
+                                        <span class="message">style: 💄 remove semi</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f6506d4</span>
+                                        <span class="message">feat: 🎸 create util main file</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#4af1cfb</span>
+                                        <span class="message">feat: 🎸 return articles from cache</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#672a293</span>
+                                        <span class="message">feat: 🎸 install http-status-codes</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#7fdbfd7</span>
+                                        <span class="message">feat: 🎸 add node-cache and lodash types</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#5e7af87</span>
+                                        <span class="message">feat: 🎸 add APP_WEBSITE_BASE_URL to constaints</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a923640</span>
+                                        <span class="message">feat: 🎸 create Cache helper</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#857ee55</span>
+                                        <span class="message">feat: 🎸 create prettyFormat</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#d2f5ed1</span>
+                                        <span class="message">feat: 🎸 add cache to articles loader</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#6e21428</span>
+                                        <span class="message">feat: 🎸 create articles loader</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#cdd2586</span>
+                                        <span class="message">feat: 🎸 add alias and baseUrl</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#e791e46</span>
+                                        <span class="message">feat: 🎸 install nextjs-cors</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#0cca772</span>
+                                        <span class="message">style: 💄 formating</span>
+                                    </div>
                                 </div>
                             </section>
                         </div>
