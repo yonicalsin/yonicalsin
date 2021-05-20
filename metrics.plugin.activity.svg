@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="289" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="529" class="">
     <defs>
         <style/>
     </defs>
@@ -1165,6 +1165,89 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 17 commits in <span class="repo">cibyar/hyperfront</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#412364f</span>
+                                        <span class="message">feat: 🎸 create the modal component</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#9399386</span>
+                                        <span class="message">feat: 🎸 add default modal story</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a4aebd1</span>
+                                        <span class="message">fix: 🐛 remove typography component for this component</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#7ef4ec5</span>
+                                        <span class="message">feat: 🎸 add spacing to orders</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#c6c9ad2</span>
+                                        <span class="message">feat: 🎸 the stack component was deprecated</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#c4fdee3</span>
+                                        <span class="message">feat: 🎸 update the order-line component</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#9063741</span>
+                                        <span class="message">feat: 🎸 create ModalOverlay</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a3361fc</span>
+                                        <span class="message">fix: 🐛 remove card</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#e7e5e68</span>
+                                        <span class="message">feat: 🎸 add orders to menu</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#7c29db1</span>
+                                        <span class="message">feat: 🎸 use AccountLayout instead of AccountSettingsLayout</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#4843f85</span>
+                                        <span class="message">feat: 🎸 update the account settings</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a4d6a14</span>
+                                        <span class="message">fix: 🐛 delete AccountSettingsLayout</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a5af20d</span>
+                                        <span class="message">feat: 🎸 add shadow to card</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#514614b</span>
+                                        <span class="message">feat: 🎸 create ScrollPreventer component</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f473fcc</span>
+                                        <span class="message">feat: 🎸 add the search icon</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#e5be71e</span>
+                                        <span class="message">feat: 🎸 remove search icon</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#533e6c4</span>
+                                        <span class="message">feat: 🎸 add the intro to home page</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 1 commit in <span class="repo">riqra/back-office</span>
                     </div>
                                 </div>
@@ -1208,29 +1291,6 @@
                                     <div class="commit">
                                         <span class="sha">#e121969</span>
                                         <span class="message">feat: 🎸 add whiteSpace: nowrap to table head</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 2 commits in <span class="repo">yonycalsin/adolfo--devocion-matutina-bot-nextjs</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#f4ebd24</span>
-                                        <span class="message">feat: 🎸 use articles loader in the old endpoint</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#57d4bd5</span>
-                                        <span class="message">feat: 🎸 add sessionKeys constant</span>
                                     </div>
                                 </div>
                             </section>
