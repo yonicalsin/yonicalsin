@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="305" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="545" class="">
     <defs>
         <style/>
     </defs>
@@ -1165,6 +1165,112 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 1 commit in <span class="repo">cibyar/hyperfront</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#36a0c48</span>
+                                        <span class="message">chore: 🤖 update outdated dependencies</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 18 commits in <span class="repo">cibyar/hyperfront</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#b8d1615</span>
+                                        <span class="message">fix: 🐛 remove pointer cursor from modal overlay</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#4643484</span>
+                                        <span class="message">feat: 🎸 add action type</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#bfc0f8a</span>
+                                        <span class="message">feat: 🎸 add isCentered</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#2d355a7</span>
+                                        <span class="message">feat: 🎸 update the spinner component</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#2f8f588</span>
+                                        <span class="message">feat: 🎸 add actions addon</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#be0e670</span>
+                                        <span class="message">feat: 🎸 add onAccept prop</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#862bcde</span>
+                                        <span class="message">feat: 🎸 create the close icon</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#3764004</span>
+                                        <span class="message">feat: 🎸 add UseDisclosureProps</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#d7f8a88</span>
+                                        <span class="message">feat: 🎸 add background</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#c1cffc0</span>
+                                        <span class="message">feat: 🎸 create AlertDialog</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#9aa8ae2</span>
+                                        <span class="message">feat: 🎸 create dialog close</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#9ff23f5</span>
+                                        <span class="message">feat: 🎸 change default color to gray</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a5ebcb1</span>
+                                        <span class="message">feat: 🎸 create dialog components</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#3eb6283</span>
+                                        <span class="message">feat: 🎸 create dialog-header</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#589c2f4</span>
+                                        <span class="message">chore: 🤖 change to optional</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#54008b8</span>
+                                        <span class="message">feat: 🎸 add modal-sizes to max-width</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#ca10dcb</span>
+                                        <span class="message">feat: 🎸 add modal-root wrapper</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a3fc847</span>
+                                        <span class="message">feat: 🎸 create the modal stories</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 1 commit in <span class="repo">riqra/storefront</span>
                     </div>
                                 </div>
@@ -1190,52 +1296,6 @@
                                 <div class="details">
                                     <div> in <span class="repo">riqra/storefront</span></div>
                                     <div>13 files changed <span class="code">++37 --32</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 2 commits in <span class="repo">riqra/storefront</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">change-to-typescript</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#4321ce5</span>
-                                        <span class="message">Merge branch 'master' into change-to-typescript</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 3 commits in <span class="repo">riqra/storefront</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">change-to-typescript</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#df61a49</span>
-                                        <span class="message">fix: 🐛 fixes</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#13af291</span>
-                                        <span class="message">Merge branch 'master' into change-to-typescript</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#a3c5709</span>
-                                        <span class="message">chore: add importsNotUsedAsValues (#1043)</span>
-                                    </div>
                                 </div>
                             </section>
                         </div>
