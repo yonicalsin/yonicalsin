@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="344" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="555" class="">
     <defs>
         <style/>
     </defs>
@@ -1165,6 +1165,100 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 3 commits in <span class="repo">cibyar/hyperapi</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#0d84dfd</span>
+                                        <span class="message">feat: 🎸 add orderStatus field to order type</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#5fce1ef</span>
+                                        <span class="message">feat: 🎸 create TypeOrderStatus</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#18cfccc</span>
+                                        <span class="message">feat: 🎸 add orders field to user type</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 13 commits in <span class="repo">cibyar/hyperfront</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#67b0163</span>
+                                        <span class="message">feat: 🎸 use real data in orderLine component</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#c7239f8</span>
+                                        <span class="message">feat: 🎸 fetching with ordersQueyr</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#14c3c01</span>
+                                        <span class="message">feat: 🎸 create ordersQuery</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#9100e25</span>
+                                        <span class="message">feat: 🎸 create the dateFormats constant</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#32b2421</span>
+                                        <span class="message">feat: 🎸 create order-status module type</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f27e29b</span>
+                                        <span class="message">feat: 🎸 install dayjs</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#3d79a76</span>
+                                        <span class="message">feat: 🎸 create orderStatusFragment</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a1ba4fe</span>
+                                        <span class="message">feat: 🎸 add the .server folder to the clean script</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#d0c8457</span>
+                                        <span class="message">feat: 🎸 use text-gray instead of text-gray-800</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#d3fbe6d</span>
+                                        <span class="message">feat: 🎸 create the pricing component</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#6b89934</span>
+                                        <span class="message">feat: 🎸 add MockedProvider from apollo as global decorator</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#44344fd</span>
+                                        <span class="message">feat: 🎸 add important to gray variant</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#de51d82</span>
+                                        <span class="message">feat: 🎸 install storybook-addon-apollo-client</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 1 commit in <span class="repo">cibyar/hyperapi</span>
                     </div>
                                 </div>
@@ -1196,54 +1290,6 @@
                                     <div class="commit">
                                         <span class="sha">#a3c27db</span>
                                         <span class="message">feat: 🎸 change orderitem image</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 3 commits in <span class="repo">cibyar/hyperfront</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#f44285d</span>
-                                        <span class="message">feat: 🎸 create orderQuery</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#0256a3f</span>
-                                        <span class="message">feat: 🎸 create orderFragment</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#9c0de7e</span>
-                                        <span class="message">feat: 🎸 create order tails for thanks pag
-
-e</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">cibyar/hyperapi</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#19d9b72</span>
-                                        <span class="message">feat: 🎸 update to new code</span>
                                     </div>
                                 </div>
                             </section>
