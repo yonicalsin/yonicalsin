@@ -190,6 +190,9 @@
   .field.language.details &gt; *, .field.language.details small &gt; * {
     flex: 1 1 0;
   }
+  .field.language.details small &gt; *:not(:last-child) {
+    margin-right: 6px;
+  }
 
 /* Follow-up */
   .followup.legend {
@@ -1166,7 +1169,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>danstarns/for-emit-of</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
