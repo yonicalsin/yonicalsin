@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="336" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="353" class="">
     <defs>
         <style/>
     </defs>
@@ -1162,6 +1162,7 @@
                 <div class="row">
                     <ul class="habits">
                         <li>Use spaces for indents</li>
+                        <li>Approximately 34.2 characters per line of code written</li>
                         <li>Mostly push code around 18:00</li>
                         <li>Mostly active on tuesday</li>
                     </ul>
