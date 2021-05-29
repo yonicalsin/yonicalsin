@@ -2449,7 +2449,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/gvisor</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2656,7 +2656,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions, timezone America/Lima</span>
-                <span>Last updated Sat, 29 May 2021 12:34:26 GMT with lowlighter/metrics@3.9.0</span>
+                <span>Last updated Sat, 29 May 2021 14:04:35 GMT with lowlighter/metrics@3.9.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
