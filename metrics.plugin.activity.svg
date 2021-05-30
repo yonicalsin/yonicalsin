@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="467" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="308" class="">
     <defs>
         <style/>
     </defs>
@@ -1168,22 +1168,14 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 3 commits in <span class="repo">cibyar/jet</span>
+                      Pushed 1 commit in <span class="repo">cibyar/jet</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#0f4548c</span>
-                                        <span class="message">0.1.1</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#c07044b</span>
-                                        <span class="message">feat: 🎸 add publishConfig</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#4c1a91f</span>
-                                        <span class="message">feat: 🎸 setup np</span>
+                                        <span class="sha">#bd2c05a</span>
+                                        <span class="message">feat: 🎸 add build script to release workflow [release]</span>
                                     </div>
                                 </div>
                             </section>
@@ -1195,38 +1187,14 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 7 commits in <span class="repo">cibyar/jet</span>
+                      Pushed 1 commit in <span class="repo">cibyar/jet</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#7290d34</span>
-                                        <span class="message">style: 💄 formating</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#c3bdc2d</span>
-                                        <span class="message">feat: 🎸 add format scripts</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#6436fa4</span>
-                                        <span class="message">feat: 🎸 setup prettier</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#a6d1302</span>
-                                        <span class="message">feat: 🎸 install prettier-packagejson</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#15084d9</span>
-                                        <span class="message">refactor: 💡 downgrade the typescript package</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#a138515</span>
-                                        <span class="message">chore: 🤖 disable reactDocgen</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#5b93367</span>
-                                        <span class="message">fix: 🐛 purge packages</span>
+                                        <span class="sha">#a65fd1a</span>
+                                        <span class="message">feat: 🎸 add install_dependencies step</span>
                                     </div>
                                 </div>
                             </section>
@@ -1238,22 +1206,18 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 3 commits in <span class="repo">vote-market/api</span>
+                      Pushed 2 commits in <span class="repo">cibyar/jet</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#f4b0501</span>
-                                        <span class="message">style: 💄 formating</span>
+                                        <span class="sha">#8784efe</span>
+                                        <span class="message">fix: 🐛 rename to TSX_DOC [release]</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#55b8826</span>
-                                        <span class="message">feat: 🎸 add format scripts</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#f662912</span>
-                                        <span class="message">feat: 🎸 install prettier</span>
+                                        <span class="sha">#cf6ea96</span>
+                                        <span class="message">ci: 🎡 add validation to release workflow</span>
                                     </div>
                                 </div>
                             </section>
@@ -1265,14 +1229,14 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 8 commits in <span class="repo">riqra/api</span>
+                      Pushed 1 commit in <span class="repo">cibyar/jet</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">minor-revision-changes</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#8023338</span>
-                                        <span class="message">Merge branch 'master' into minor-revision-changes</span>
+                                        <span class="sha">#f8d96e4</span>
+                                        <span class="message">feat: 🎸 change the access to public</span>
                                     </div>
                                 </div>
                             </section>
