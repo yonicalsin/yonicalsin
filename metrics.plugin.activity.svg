@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="625" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="784" class="">
     <defs>
         <style/>
     </defs>
@@ -1168,6 +1168,112 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 6 commits in <span class="repo">yonycalsin/cbearn--api</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#a6f6e1f</span>
+                                        <span class="message">feat: 🎸 install mysql2</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#15509c1</span>
+                                        <span class="message">feat: 🎸 add ts-node support to sequelize-cli</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#3ab7461</span>
+                                        <span class="message">fix: 🐛 update arrowParens</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#aae61e2</span>
+                                        <span class="message">feat: 🎸 create seuqelize adapter</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a861840</span>
+                                        <span class="message">feat: 🎸 install sequelize-cli</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#e6681d5</span>
+                                        <span class="message">fix: 🐛 typo</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 13 commits in <span class="repo">yonycalsin/cbearn--api</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#a885d1e</span>
+                                        <span class="message">feat: 🎸 install cls-hook</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#c149495</span>
+                                        <span class="message">feat: 🎸 create sequelize provider</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#1672ec0</span>
+                                        <span class="message">feat: 🎸 add mysql environment variables</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#8a5e276</span>
+                                        <span class="message">feat: 🎸 create mysqlConfig</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#fb4cfa2</span>
+                                        <span class="message">feat: 🎸 install parse-db-url</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#dfb08e6</span>
+                                        <span class="message">feat: 🎸 install types for debug package</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#acc71be</span>
+                                        <span class="message">feat: 🎸 install sequelize</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#ba75b9b</span>
+                                        <span class="message">feat: 🎸 create the client app</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#efaf5cc</span>
+                                        <span class="message">feat: 🎸 create tenant container</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a5c5877</span>
+                                        <span class="message">feat: 🎸 install awilix packages</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#33b61fa</span>
+                                        <span class="message">feat: 🎸 install dotenv</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f05fe6d</span>
+                                        <span class="message">feat: 🎸 configure the basic server</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#0dc8ccb</span>
+                                        <span class="message">fix: 🐛 remove airbnb-base</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 3 commits in <span class="repo">yonycalsin/cbearn--api</span>
                     </div>
                                 </div>
@@ -1239,76 +1345,6 @@
                                     <div class="commit">
                                         <span class="sha">#3f0e5e2</span>
                                         <span class="message">feat: 🎸 configure eslint</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 2 commits in <span class="repo">yonycalsin/cbearn--api</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#35960c4</span>
-                                        <span class="message">feat: 🎸 add eslint packages</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#57cd8a8</span>
-                                        <span class="message">feat: 🎸 setup nodemon</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 8 commits in <span class="repo">yonycalsin/cbearn--api</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#84f5310</span>
-                                        <span class="message">feat: 🎸 enable auto fix from eslint</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#4321aa9</span>
-                                        <span class="message">feat: 🎸 add development env</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#736cc84</span>
-                                        <span class="message">feat: 🎸 add node version</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#96b78ea</span>
-                                        <span class="message">feat: 🎸 create mysql_database image in docker-compose</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#75fb838</span>
-                                        <span class="message">feat: 🎸 add env-vars file</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#1180abc</span>
-                                        <span class="message">feat: 🎸 configure typescript</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#b4f6238</span>
-                                        <span class="message">feat: 🎸 install tsconfig-paths</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#f79bc79</span>
-                                        <span class="message">feat: 🎸 setup nodemon</span>
                                     </div>
                                 </div>
                             </section>
