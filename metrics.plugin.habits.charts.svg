@@ -1234,13 +1234,13 @@
               13
             </div>
                     <div class="entry">
-              <span class="value">5</span>
-              <div class="bar" style="height: 27.77777777777778px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+              <span class="value">8</span>
+              <div class="bar" style="height: 44.44444444444444px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
               14
             </div>
                     <div class="entry">
-              <span class="value">3</span>
-              <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">1</span>
+              <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               15
             </div>
                     <div class="entry">
@@ -1295,8 +1295,8 @@
                 Sun
               </div>
                         <div class="entry">
-                <span class="value">7</span>
-                <div class="bar" style="height: 12.068965517241379px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value">10</span>
+                <div class="bar" style="height: 17.24137931034483px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Mon
               </div>
                         <div class="entry">
@@ -1305,8 +1305,8 @@
                 Tue
               </div>
                         <div class="entry">
-                <span class="value">5</span>
-                <div class="bar" style="height: 8.620689655172415px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value">3</span>
+                <div class="bar" style="height: 5.172413793103448px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Wed
               </div>
                         <div class="entry">
@@ -1331,22 +1331,22 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 75.84%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">95%</span>
+                            <div class="bar" style="width: 75.52799999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">94%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 3.776%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 4.128%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">5%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 0.208%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.184%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 0.152%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.128%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                         <div class="entry">
