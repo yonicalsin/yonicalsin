@@ -1168,6 +1168,76 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 3 commits in <span class="repo">yonycalsin/musica-adventista--webclient</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#c6084fd</span>
+                                        <span class="message">feat: 🎸 add hover state to musics cards in the home page</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#0d3ebfa</span>
+                                        <span class="message">feat: 🎸 add last musics to home page</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#5512e09</span>
+                                        <span class="message">feat: 🎸 setup gatsby-remark-smartypants</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 7 commits in <span class="repo">yonycalsin/musica-adventista--webclient</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#70780eb</span>
+                                        <span class="message">fix: 🐛 typo</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#c330388</span>
+                                        <span class="message">feat: 🎸 setup gatsby-remark-responsive-iframe</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#4dc33cb</span>
+                                        <span class="message">feat: 🎸 install gatsby-remark-responsive-iframe</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#e82d385</span>
+                                        <span class="message">feat: 🎸 add aliases</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#6864686</span>
+                                        <span class="message">feat: 🎸 add the footer the main layout</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f1a299a</span>
+                                        <span class="message">feat: 🎸 add author field to create node query</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#c07d3b8</span>
+                                        <span class="message">feat: 🎸 add content to music template</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 1 commit in <span class="repo">yonycalsin/musica-adventista--webclient</span>
                     </div>
                                 </div>
@@ -1251,76 +1321,6 @@
                                     <div class="commit">
                                         <span class="sha">#a31af97</span>
                                         <span class="message">feat: 🎸 install gatsby-source-filesystem</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 6 commits in <span class="repo">yonycalsin/musica-adventista--webclient</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#515ca68</span>
-                                        <span class="message">feat: 🎸 add title section</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#b3da3f2</span>
-                                        <span class="message">feat: 🎸 create the singers page</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#811448a</span>
-                                        <span class="message">feat: 🎸 update the page not found</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#8700ffb</span>
-                                        <span class="message">feat: 🎸 update the gray colors</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#6dd0c0d</span>
-                                        <span class="message">feat: 🎸 add links to header</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#56a8af8</span>
-                                        <span class="message">feat: 🎸 update header</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 4 commits in <span class="repo">yonycalsin/vip-ui</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#46deade</span>
-                                        <span class="message">feat: 🎸 install react packages</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#5f8050d</span>
-                                        <span class="message">feat: 🎸 setup packagejson with workspaces</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#c7d3619</span>
-                                        <span class="message">feat: 🎸 setup lerna workspaces</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#f412216</span>
-                                        <span class="message">feat: 🎸 setup lerna</span>
                                     </div>
                                 </div>
                             </section>
