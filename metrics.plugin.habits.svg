@@ -1339,17 +1339,17 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 54.128%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                            <span class="value">68%</span>
+                            <div class="bar" style="width: 64.24029646967037%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">80%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 25.016%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">31%</span>
+                            <div class="bar" style="width: 15.214689737802669%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">19%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 0.8640000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.5450137925269581%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                     </div>
