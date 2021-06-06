@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="837" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="308" class="">
     <defs>
         <style/>
     </defs>
@@ -1168,30 +1168,18 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 5 commits in <span class="repo">yonycalsin/musica-adventista--webclient</span>
+                      Pushed 2 commits in <span class="repo">yonycalsin/react-example-with-babel-cdn-v2</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#9d59472</span>
-                                        <span class="message">feat: 🎸 add count to album header</span>
+                                        <span class="sha">#2248293</span>
+                                        <span class="message">feat: 🎸 add the exact to routes</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#d690049</span>
-                                        <span class="message">feat: 🎸 remove the thumbnail from album items</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#b753d96</span>
-                                        <span class="message">feat: 🎸 reduce to five count</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#2a91104</span>
-                                        <span class="message">feat: 🎸 add the empty state</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#385a6b3</span>
-                                        <span class="message">feat: 🎸 add albumes secetion</span>
+                                        <span class="sha">#c6007bf</span>
+                                        <span class="message">chore: 🤖 change to root path</span>
                                     </div>
                                 </div>
                             </section>
@@ -1203,90 +1191,14 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 38 commits in <span class="repo">yonycalsin/musica-adventista--webclient</span>
+                      Pushed 1 commit in <span class="repo">yonycalsin/react-example-with-babel-cdn-v2</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#ece6e64</span>
-                                        <span class="message">feat: 🎸 add more songs</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#eceb698</span>
-                                        <span class="message">feat: 🎸 add more songs</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#d60722e</span>
-                                        <span class="message">feat: 🎸 add more songs</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#d8fc80e</span>
-                                        <span class="message">feat: 🎸 add the album field</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#cc16334</span>
-                                        <span class="message">feat: 🎸 add cantemos music</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#24a23f5</span>
-                                        <span class="message">feat: 🎸 add more songs</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#abc9ed9</span>
-                                        <span class="message">feat: 🎸 add the prefiero-mi-cristo album</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#5c5d35c</span>
-                                        <span class="message">feat: 🎸 update the hover state to popular songs</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#94183bf</span>
-                                        <span class="message">feat: 🎸 changee the thumbnail</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#625c5d7</span>
-                                        <span class="message">feat: 🎸 add the popular song sections</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#d51a604</span>
-                                        <span class="message">feat: 🎸 add albumes field the singer page query</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#62e33aa</span>
-                                        <span class="message">feat: 🎸 add the hover state to singer avatar</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#8425301</span>
-                                        <span class="message">feat: 🎸 add header profile to singer tempalte</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#e9135c2</span>
-                                        <span class="message">feat: 🎸 create the album template</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#f26a929</span>
-                                        <span class="message">feat: 🎸 add thumbnail</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#5694f5d</span>
-                                        <span class="message">feat: 🎸 create the edith aravena ablum</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#4dbba9b</span>
-                                        <span class="message">feat: 🎸 add the edith aravena artists</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#56cde89</span>
-                                        <span class="message">feat: 🎸 update the markdown style</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#c4e9385</span>
-                                        <span class="message">feat: 🎸 remove padding from brand box</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#985677f</span>
-                                        <span class="message">feat: 🎸 add scroll style</span>
+                                        <span class="sha">#0528915</span>
+                                        <span class="message">feat: 🎸 add favicon to root page</span>
                                     </div>
                                 </div>
                             </section>
@@ -1298,22 +1210,14 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 3 commits in <span class="repo">yonycalsin/musica-adventista--webclient</span>
+                      Pushed 1 commit in <span class="repo">yonycalsin/react-example-with-babel-cdn-v2</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#c6084fd</span>
-                                        <span class="message">feat: 🎸 add hover state to musics cards in the home page</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#0d3ebfa</span>
-                                        <span class="message">feat: 🎸 add last musics to home page</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#5512e09</span>
-                                        <span class="message">feat: 🎸 setup gatsby-remark-smartypants</span>
+                                        <span class="sha">#e640ce4</span>
+                                        <span class="message">feat: 🎸 optimistic for production</span>
                                     </div>
                                 </div>
                             </section>
@@ -1325,38 +1229,14 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 7 commits in <span class="repo">yonycalsin/musica-adventista--webclient</span>
+                      Pushed 1 commit in <span class="repo">yonycalsin/react-example-with-babel-cdn-v2</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#70780eb</span>
-                                        <span class="message">fix: 🐛 typo</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#c330388</span>
-                                        <span class="message">feat: 🎸 setup gatsby-remark-responsive-iframe</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#4dc33cb</span>
-                                        <span class="message">feat: 🎸 install gatsby-remark-responsive-iframe</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#e82d385</span>
-                                        <span class="message">feat: 🎸 add aliases</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#6864686</span>
-                                        <span class="message">feat: 🎸 add the footer the main layout</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#f1a299a</span>
-                                        <span class="message">feat: 🎸 add author field to create node query</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#c07d3b8</span>
-                                        <span class="message">feat: 🎸 add content to music template</span>
+                                        <span class="sha">#0403dca</span>
+                                        <span class="message">feat: 🎸 update the routes</span>
                                     </div>
                                 </div>
                             </section>
