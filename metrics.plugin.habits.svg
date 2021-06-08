@@ -1347,22 +1347,22 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 64.24005455785407%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">80%</span>
+                            <div class="bar" style="width: 64.44444444444444%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">81%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 10.267788133666741%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 10.134625740441571%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">13%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 5.026596953853149%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 4.961407287740083%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">6%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 0.4655603546260514%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.4595225273739006%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                     </div>
