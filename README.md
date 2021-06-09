@@ -14,4 +14,4 @@
 
 ![](metrics.plugin.pagespeed.svg)
 
-<!-- ![](metrics.plugin.languages.svg) -->
+![](metrics.plugin.languages.svg)
