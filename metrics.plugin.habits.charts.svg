@@ -1364,22 +1364,22 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 63.22546419098143%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">79%</span>
+                            <div class="bar" style="width: 62.715681712424384%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">78%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 11.434129089301504%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">14%</span>
+                            <div class="bar" style="width: 11.663099115867846%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">15%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 4.8877099911582675%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 5.144718473708702%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">6%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 0.4526967285587975%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.47650069799906936%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                     </div>
