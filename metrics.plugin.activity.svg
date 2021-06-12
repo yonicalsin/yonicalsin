@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="379" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="572" class="">
     <defs>
         <style/>
     </defs>
@@ -1198,6 +1198,129 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 6 commits in <span class="repo">musica-adventista/botapi</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#06fa189</span>
+                                        <span class="message">fix: 🐛 commented</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#727ae05</span>
+                                        <span class="message">refactor: 💡 uninstall googleapis</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#3500cb6</span>
+                                        <span class="message">refactor: 💡 create the YoutubeSearchVideoProvider</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#cf79b8f</span>
+                                        <span class="message">feat: 🎸 create the YoutubeClient</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#61b3ea9</span>
+                                        <span class="message">refactor: 💡 split to SpotifyArtistProvider</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#97cff20</span>
+                                        <span class="message">feat: 🎸 split to clients</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">musica-adventista/botapi</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#ce8d798</span>
+                                        <span class="message">fix: 🐛 delete unused utils</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 12 commits in <span class="repo">musica-adventista/botapi</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#488df19</span>
+                                        <span class="message">feat: 🎸 request the youtube api for search someone musics</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#8fbda2c</span>
+                                        <span class="message">feat: 🎸 export SpotifyClient</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#98f8fcb</span>
+                                        <span class="message">feat: 🎸 create the providers
+
+✅ Closes: c</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#4f08b8f</span>
+                                        <span class="message">feat: 🎸 create clients</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#4364660</span>
+                                        <span class="message">feat: 🎸 install more packages</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#fb59916</span>
+                                        <span class="message">feat: 🎸 custom the vscode configuration</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#0e8b7f4</span>
+                                        <span class="message">feat: 🎸 create the providers</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#90663f3</span>
+                                        <span class="message">feat: 🎸 create clients</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f4a4402</span>
+                                        <span class="message">style: 💄 formating</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#e595a72</span>
+                                        <span class="message">feat: 🎸 install pretteir</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a4169d3</span>
+                                        <span class="message">feat: 🎸 setup prettier</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#446521c</span>
+                                        <span class="message">feat: 🎸 create env-vars</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 1 commit in <span class="repo">yonycalsin/musica-adventista--webclient</span>
                     </div>
                                 </div>
@@ -1206,83 +1329,6 @@
                                     <div class="commit">
                                         <span class="sha">#c59541f</span>
                                         <span class="message">fix: 🐛 logging</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">yonycalsin/musica-adventista--webclient</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#f75612a</span>
-                                        <span class="message">fix: 🐛 debugger</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">yonycalsin/musica-adventista--webclient</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#8009090</span>
-                                        <span class="message">fix: 🐛 add initial state value</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 6 commits in <span class="repo">yonycalsin/musica-adventista--webclient</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#5e13c75</span>
-                                        <span class="message">fix: 🐛 use onToggle instaed of set the new video</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#fa9f7c6</span>
-                                        <span class="message">fix: 🐛 udpate initialy the state</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#fb9c949</span>
-                                        <span class="message">feat: 🎸 add typing to tailwind config</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#a5c26f3</span>
-                                        <span class="message">feat: 🎸 add toggle to play icon</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#ed6ded5</span>
-                                        <span class="message">feat: 🎸 add dinamyc button</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#e9ba3b2</span>
-                                        <span class="message">feat: 🎸 add currentVIdeoId to player state</span>
                                     </div>
                                 </div>
                             </section>
