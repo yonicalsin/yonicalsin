@@ -1352,9 +1352,9 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#pr-bar)" x="0" y="0" width="29.30232558139535" height="8" fill="#28a745"/>
-                            <rect mask="url(#pr-bar)" x="29.30232558139535" y="0" width="121.16279069767442" height="8" fill="#d73a49"/>
-                            <rect mask="url(#pr-bar)" x="150.46511627906978" y="0" width="69.53488372093024" height="8" fill="#6f42c1"/>
+                            <rect mask="url(#pr-bar)" x="0" y="0" width="29.2713833157339" height="8" fill="#28a745"/>
+                            <rect mask="url(#pr-bar)" x="29.2713833157339" y="0" width="121.03484688489968" height="8" fill="#d73a49"/>
+                            <rect mask="url(#pr-bar)" x="150.3062302006336" y="0" width="69.69376979936642" height="8" fill="#6f42c1"/>
                         </svg>
                         <div class="followup legend field horizontal fill-width">
                             <div class="field center">
@@ -1373,7 +1373,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#6f42c1" fill-rule="evenodd" d="M5 3.254V3.25v.005a.75.75 0 110-.005v.004zm.45 1.9a2.25 2.25 0 10-1.95.218v5.256a2.25 2.25 0 101.5 0V7.123A5.735 5.735 0 009.25 9h1.378a2.251 2.251 0 100-1.5H9.25a4.25 4.25 0 01-3.8-2.346zM12.75 9a.75.75 0 100-1.5.75.75 0 000 1.5zm-8.5 4.5a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                 </svg>
-                                <span class="no-wrap">299 <small>merged</small></span>
+                                <span class="no-wrap">300 <small>merged</small></span>
                             </div>
                         </div>
                     </section>
@@ -1394,14 +1394,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="228.83592212120112" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="228.83592212120112" y="0" width="144.00795673000889" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="372.84387885121" y="0" width="43.26568785142127" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="416.10956670263124" y="0" width="17.36946819631443" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="433.47903489894566" y="0" width="10.523134692334697" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="444.0021695912804" y="0" width="7.453655054511176" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="451.45582464579155" y="0" width="4.4542302539273075" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="455.91005489971883" y="0" width="4.089945100281118" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="228.3034208812135" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="228.3034208812135" y="0" width="144.69022418366043" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="372.99364506487393" y="0" width="43.21805468547902" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="416.2116997503529" y="0" width="17.32904944008627" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="433.5407491904392" y="0" width="10.498647355642616" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="444.03939654608183" y="0" width="7.436310397596408" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="451.47570694367823" y="0" width="4.443865259168529" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="455.9195722028467" y="0" width="4.080427797153213" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2517,7 +2517,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>maaslalani/slides</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2534,7 +2534,7 @@
                     </div>
                                     <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/></svg>
-                    2.15k
+                    2.16k
                   </div>
                                     <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/></svg>
@@ -2559,7 +2559,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hasura/graphql-engine</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2601,7 +2601,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TryGhost/gatsby-plugin-advanced-sitemap</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2643,7 +2643,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bvego/nope-validator</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2685,7 +2685,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gajus/youtube-player</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2724,7 +2724,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Sat, 12 Jun 2021 03:11:35 (timezone America/Lima) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Sat, 12 Jun 2021 04:10:39 (timezone America/Lima) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
