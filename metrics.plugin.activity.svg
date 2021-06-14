@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="483" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="432" class="">
     <defs>
         <style/>
     </defs>
@@ -1204,43 +1204,16 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#75493be</span>
-                                        <span class="message">feat: 🎸 add development content</span>
+                                        <span class="sha">#5cd20e9</span>
+                                        <span class="message">feat: 🎸 order by spotifyPopularity</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#b8bf519</span>
-                                        <span class="message">feat: 🎸 add custom content for each environment</span>
+                                        <span class="sha">#a6b8b15</span>
+                                        <span class="message">fix: 🐛 add some words to cSpell words config</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#5456deb</span>
-                                        <span class="message">feat: 🎸 ignore the content folder</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 3 commits in <span class="repo">musica-adventista/botapi</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#582d35e</span>
-                                        <span class="message">fix: 🐛 remove the content test folder</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#2723753</span>
-                                        <span class="message">fix: 🐛 ignore the content folder</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#04cbe39</span>
-                                        <span class="message">feat: 🎸 exclude the content folder from vscode tracking</span>
+                                        <span class="sha">#c7daea1</span>
+                                        <span class="message">fix: 🐛 update the graphql fragments</span>
                                     </div>
                                 </div>
                             </section>
@@ -1252,30 +1225,49 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 5 commits in <span class="repo">musica-adventista/botapi</span>
+                      Pushed 1 commit in <span class="repo">yonycalsin/musica-adventista--webclient</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#4e5dd1d</span>
-                                        <span class="message">feat: 🎸 search the another artist</span>
+                                        <span class="sha">#b69a41a</span>
+                                        <span class="message">feat: 🎸 change the wait time to 100 miliseconds</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 5 commits in <span class="repo">yonycalsin/musica-adventista--webclient</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#51fb9dc</span>
+                                        <span class="message">fix: 🐛 wait the widget script for create the player isntance</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#82d31ec</span>
-                                        <span class="message">feat: 🎸 add the another api key</span>
+                                        <span class="sha">#8b89f67</span>
+                                        <span class="message">fix: 🐛 comment the iframe script</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#b0aa82a</span>
-                                        <span class="message">feat: 🎸 add validation to synchronize file</span>
+                                        <span class="sha">#17dade6</span>
+                                        <span class="message">fix: 🐛 add statuses typo to use-script</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#39d580c</span>
-                                        <span class="message">refactor: 💡 order for sections</span>
+                                        <span class="sha">#bfdffe5</span>
+                                        <span class="message">feat: 🎸 add hooks to global alias</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#02c4bed</span>
-                                        <span class="message">fix: 🐛 change the apiKey</span>
+                                        <span class="sha">#5ddfba8</span>
+                                        <span class="message">feat: 🎸 create the use-script custom hook</span>
                                     </div>
                                 </div>
                             </section>
@@ -1293,18 +1285,16 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#eb251ae</span>
-                                        <span class="message">Merge pull request #15 from yonycalsin/add-conpaz-compuesto-singer
-
-feat: 🎸 add conpaz-compuesto singer</span>
+                                        <span class="sha">#75493be</span>
+                                        <span class="message">feat: 🎸 add development content</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#7da23d8</span>
-                                        <span class="message">fix: 🐛 remove the album of another artists</span>
+                                        <span class="sha">#b8bf519</span>
+                                        <span class="message">feat: 🎸 add custom content for each environment</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#a8db6d1</span>
-                                        <span class="message">feat: 🎸 add conpaz-compuesto singer</span>
+                                        <span class="sha">#5456deb</span>
+                                        <span class="message">feat: 🎸 ignore the content folder</span>
                                     </div>
                                 </div>
                             </section>
