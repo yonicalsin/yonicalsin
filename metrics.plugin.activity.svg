@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="361" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="344" class="">
     <defs>
         <style/>
     </defs>
@@ -1198,6 +1198,71 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 1 commit in <span class="repo">riqra/storefront</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">add-page-for-the-error-of-unavailable-vendor</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#81f0901</span>
+                                        <span class="message">fixes</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 2 commits in <span class="repo">riqra/storefront</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">add-page-for-the-error-of-unavailable-vendor</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#ceaba81</span>
+                                        <span class="message">fix: resolve correctly the server error scren</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#9483c5b</span>
+                                        <span class="message">fix: it</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 2 commits in <span class="repo">riqra/storefront</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">add-page-for-the-error-of-unavailable-vendor</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#1588e0b</span>
+                                        <span class="message">refactor the app</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#c5c2116</span>
+                                        <span class="message">renbame to tsx</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 2 commits in <span class="repo">riqra/storefront</span>
                     </div>
                                 </div>
@@ -1210,75 +1275,6 @@
                                     <div class="commit">
                                         <span class="sha">#86b65b4</span>
                                         <span class="message">fix: update the error-component</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 4 commits in <span class="repo">riqra/storefront</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">add-page-for-the-error-of-unavailable-vendor</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#b4b39d6</span>
-                                        <span class="message">feat: add image src</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#2431993</span>
-                                        <span class="message">feat: use InfoErrorBox</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#e64f260</span>
-                                        <span class="message">fix: apply review changes</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#9b9d356</span>
-                                        <span class="message">feat: create info-error-box</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">yonycalsin/riqra--envs</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#d7fbb93</span>
-                                        <span class="message">Rename .env to .env.development</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">yonycalsin/riqra--envs</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#d019a4a</span>
-                                        <span class="message">Create .env</span>
                                     </div>
                                 </div>
                             </section>
