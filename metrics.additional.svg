@@ -1199,14 +1199,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="241.26236335670694" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="241.26236335670694" y="0" width="153.04724012660606" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="394.309603483313" y="0" width="45.13183463485487" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="439.44143811816787" y="0" width="8.205736465767952" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="447.64717458393585" y="0" width="4.696107621723279" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="452.3432822056591" y="0" width="4.31204074843801" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="456.65532295409713" y="0" width="2.405910038568074" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="459.0612329926652" y="0" width="0.9387670073348505" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="241.1722074522812" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="241.1722074522812" y="0" width="152.99004880939643" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="394.1622562616776" y="0" width="45.11496958672516" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="439.2772258484028" y="0" width="8.374564789740973" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="447.6517906381438" y="0" width="4.694352761064423" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="452.3461433992082" y="0" width="4.310429407455573" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="456.65657280666375" y="0" width="2.405010988287391" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="459.06158379495116" y="0" width="0.9384162050488506" height="8" fill="#ff3e00"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1423,17 +1423,17 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 62.00828744962252%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">78%</span>
+                            <div class="bar" style="width: 61.560836557200616%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">77%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 13.446103195776807%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 13.78050554117339%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">17%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 4.5456093546006695%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 4.658657901625992%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">6%</span>
                         </div>
                     </div>
@@ -1644,7 +1644,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>intel/haxm</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
