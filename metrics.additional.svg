@@ -1423,27 +1423,27 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 36.96365556500013%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">46%</span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 19.512144862581458%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">24%</span>
+                            <div class="bar" style="width: 31.50471504715047%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">39%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Dart</span>
-                            <div class="bar" style="width: 19.49978105762048%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">24%</span>
+                            <div class="bar" style="width: 22.17067884964564%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">28%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">JavaScript</span>
+                            <div class="bar" style="width: 21.748960346746323%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">27%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 3.3547124127450223%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">4%</span>
+                            <div class="bar" style="width: 3.8142095706671353%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">5%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 0.6697061020529067%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.7614361857904294%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                     </div>
@@ -1654,7 +1654,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fforres/preguntas-y-respuestas-entrevistas-frontend</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1692,7 +1692,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>callstack/react-native-testing-library</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1734,7 +1734,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>callstack/react-native-paper</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
