@@ -1423,32 +1423,32 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 45.954587869362356%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                            <span class="value">57%</span>
+                            <div class="bar" style="width: 44.66843716423054%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">56%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 16.753136340072576%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">21%</span>
+                            <div class="bar" style="width: 16.3788594481724%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">20%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Dart</span>
-                            <div class="bar" style="width: 13.604561949196475%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">17%</span>
+                            <div class="bar" style="width: 15.34737567660713%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">19%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 3.0656298600311045%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 2.9971415249254973%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">4%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 0.5391394504924831%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.5270946945891702%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 0.08294453084499741%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.08109149147525696%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -1659,7 +1659,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jest-community/vscode-jest</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1701,7 +1701,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jest-community/awesome-jest</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1739,7 +1739,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>adiwajshing/Baileys</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
