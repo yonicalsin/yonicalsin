@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="555" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="819" class="">
     <defs>
         <style/>
     </defs>
@@ -1198,6 +1198,85 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 16 commits in <span class="repo">shoptenancy/api</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#9bd0c7f</span>
+                                        <span class="message">feat: 🎸 create the user model</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a49adc2</span>
+                                        <span class="message">feat: 🎸 add handling to auth middleware</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#d0dd64a</span>
+                                        <span class="message">feat: 🎸 add AUTH_JWT_SECRET</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#223ed14</span>
+                                        <span class="message">feat: 🎸 add AUTH_JWT_SECRET</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#664e666</span>
+                                        <span class="message">feat: 🎸 create IMiddleware shared interface</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#fbcc657</span>
+                                        <span class="message">feat: 🎸 install jsonwebtoken</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#8daab94</span>
+                                        <span class="message">feat: 🎸 add current path to dealer router</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#fec61ca</span>
+                                        <span class="message">feat: 🎸 create DealerError</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#b4d0110</span>
+                                        <span class="message">feat: 🎸 create GetDealerSequelizeQueryService</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#8e084f6</span>
+                                        <span class="message">feat: 🎸 create domainError</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#191fed1</span>
+                                        <span class="message">feat: 🎸 create iQuery interface</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#b8e4cf6</span>
+                                        <span class="message">feat: 🎸 create GetDealer to dealer module</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#425871e</span>
+                                        <span class="message">feat: 🎸 create shared action</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#eabb7ea</span>
+                                        <span class="message">feat: 🎸 create getCurrentDealer actions</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a8ace19</span>
+                                        <span class="message">feat: 🎸 create responder</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#5646c8b</span>
+                                        <span class="message">feat: 🎸 disable @typescript-eslint/no-non-null-assertion</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 3 commits in <span class="repo">shoptenancy/api</span>
                     </div>
                                 </div>
@@ -1306,25 +1385,6 @@
                                     <div class="commit">
                                         <span class="sha">#a558100</span>
                                         <span class="message">feat: 🎸 create the daler model</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">riqra/storefront</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#b839642</span>
-                                        <span class="message">Update README.md (#1069)</span>
                                     </div>
                                 </div>
                             </section>
