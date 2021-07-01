@@ -1423,32 +1423,32 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 56.256744240749185%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                            <span class="value">70%</span>
+                            <div class="bar" style="width: 56.74644346600404%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">71%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 11.592890430896341%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 11.243733379833472%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">14%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Dart</span>
-                            <div class="bar" style="width: 11.129504123726496%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 11.000770158536408%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">14%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 0.5798209376516076%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.5731142014327855%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 0.3822348980461916%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.37781362163418925%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 0.05880536893018332%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.05812517255910603%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -1663,7 +1663,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Shopify/ui-extensions</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1704,7 +1704,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Shopify/theme-check</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
