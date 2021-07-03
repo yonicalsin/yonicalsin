@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="643" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="326" class="">
     <defs>
         <style/>
     </defs>
@@ -1198,6 +1198,44 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 1 commit in <span class="repo">yonycalsin/yonycalsin.com</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#3c5f074</span>
+                                        <span class="message">feat: 🎸 customize the line-heights</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">yonycalsin/resume-api.yonycalsin.com</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#6e10e2d</span>
+                                        <span class="message">feat: 🎸 parser data</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 5 commits in <span class="repo">riqra/storefront</span>
                     </div>
                                 </div>
@@ -1233,118 +1271,6 @@
                                     <div class="commit">
                                         <span class="sha">#91573fc</span>
                                         <span class="message">feat: 🎸 add parsers</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 12 commits in <span class="repo">yonycalsin/resume-api.yonycalsin.com</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#408bb8f</span>
-                                        <span class="message">feat: 🎸 remove endpoint validator in dev</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#e776b50</span>
-                                        <span class="message">feat: 🎸 add dev origins</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#aef7d28</span>
-                                        <span class="message">feat: 🎸 add more origins</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#bcc3c49</span>
-                                        <span class="message">feat: 🎸 add boot script</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#fbba433</span>
-                                        <span class="message">style: 💄 formating</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#fcedec2</span>
-                                        <span class="message">feat: 🎸 handling to error</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#f4177bb</span>
-                                        <span class="message">feat: 🎸 add experiences</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#4a7647a</span>
-                                        <span class="message">feat: 🎸 add company images</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#0f633cf</span>
-                                        <span class="message">feat: 🎸 create companies data</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#7f66dd7</span>
-                                        <span class="message">feat: 🎸 add dateFormats
-
-✅ Closes: clear</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#370c76c</span>
-                                        <span class="message">feat: 🎸 install date-fns</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#6cac50d</span>
-                                        <span class="message">feat: 🎸 add locations</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 8 commits in <span class="repo">yonycalsin/resume-api.yonycalsin.com</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#55a5a43</span>
-                                        <span class="message">feat: 🎸 add middleware to api paths</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#8ad8a17</span>
-                                        <span class="message">feat: 🎸 add more scripts</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#d589ab9</span>
-                                        <span class="message">feat: 🎸 add import sorts</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#e49608d</span>
-                                        <span class="message">fix: 🐛 customize vscode config</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#eb2f015</span>
-                                        <span class="message">style: 💄 formating</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#acd894c</span>
-                                        <span class="message">feat: 🎸 add format scripts</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#7d40a55</span>
-                                        <span class="message">feat: 🎸 install prettier</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#a93d169</span>
-                                        <span class="message">feat: 🎸 vadalite the api enedpoints</span>
                                     </div>
                                 </div>
                             </section>
