@@ -1423,27 +1423,27 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 65.7135713293513%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">82%</span>
+                            <div class="bar" style="width: 63.16609890911019%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">79%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Dart</span>
-                            <div class="bar" style="width: 7.160994582580914%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">9%</span>
+                            <div class="bar" style="width: 10.034595654997814%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">13%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 6.584247812196137%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 6.282889068568323%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">8%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 0.4856230031948882%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.46339620640748647%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 0.05556327267676066%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.05302016091618838%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -1461,15 +1461,9 @@
                             <div class="entry">
                 <span class="value">196</span>
                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                19
+                20
                 
                   <div class="bottom">June</div>
-                
-              </div>
-                            <div class="entry">
-                <span class="value"></span>
-                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                20
                 
               </div>
                             <div class="entry">
@@ -1546,6 +1540,12 @@
                 2
                 
               </div>
+                            <div class="entry">
+                <span class="value"></span>
+                <div class="bar" style="height: 49.99999999999999px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                3
+                
+              </div>
                         </div>
                     </section>
                     <section class="column chart">
@@ -1554,15 +1554,9 @@
                             <div class="entry">
                 <span class="value"></span>
                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                19
+                20
                 
                 <div class="bottom">June</div>
-                
-              </div>
-                            <div class="entry">
-                <span class="value"></span>
-                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                20
                 
               </div>
                             <div class="entry">
@@ -1639,6 +1633,12 @@
                 2
                 
               </div>
+                            <div class="entry">
+                <span class="value"></span>
+                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                3
+                
+              </div>
                         </div>
                     </section>
                 </div>
@@ -1658,7 +1658,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>miguelmota/cointop</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1700,7 +1700,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RyanFitzgerald/devportfolio</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1742,7 +1742,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sourcerer-io/sourcerer-app</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
