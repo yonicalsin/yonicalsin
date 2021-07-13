@@ -2534,7 +2534,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>redis-store/redis-store</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2728,7 +2728,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Tue, 13 Jul 2021 11:10:51 (timezone America/Lima) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Tue, 13 Jul 2021 12:16:49 (timezone America/Lima) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
