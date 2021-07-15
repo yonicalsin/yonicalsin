@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="344" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="308" class="">
     <defs>
         <style/>
     </defs>
@@ -1204,6 +1204,48 @@
                                 <div class="details">
                                     <div>on branch <span class="code">add-loginCode-and-loginVendorCode</span></div>
                                     <div class="commit">
+                                        <span class="sha">#d027806</span>
+                                        <span class="message">sad</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 2 commits in <span class="repo">riqra/api</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">add-loginCode-and-loginVendorCode</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#e67d4c5</span>
+                                        <span class="message">.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#81a3932</span>
+                                        <span class="message">fix: return normal condition</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">riqra/api</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">add-loginCode-and-loginVendorCode</span></div>
+                                    <div class="commit">
                                         <span class="sha">#38bbaa7</span>
                                         <span class="message">feat: apply review changes</span>
                                     </div>
@@ -1225,56 +1267,6 @@
                                     <div class="commit">
                                         <span class="sha">#d44c5c8</span>
                                         <span class="message">updates</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">riqra/api</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">add-loginCode-and-loginVendorCode</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#de3a7cf</span>
-                                        <span class="message">fixes</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 4 commits in <span class="repo">riqra/api</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">add-loginCode-and-loginVendorCode</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#2a4bb56</span>
-                                        <span class="message">asdasdasd</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#11167e0</span>
-                                        <span class="message">use loginEmail and loginVendorCode</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#1d2cc32</span>
-                                        <span class="message">add throw error</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#daaba24</span>
-                                        <span class="message">feat: omit loginCode, and loginVendorEmail</span>
                                     </div>
                                 </div>
                             </section>
