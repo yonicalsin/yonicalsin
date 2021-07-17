@@ -1423,12 +1423,12 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 76.64677646060413%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 76.58512165003503%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">96%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 3.3532235393958683%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 3.4148783499649564%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">4%</span>
                         </div>
                     </div>
@@ -1639,7 +1639,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>karan/Projects</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1677,7 +1677,7 @@
                                         </svg>
                                         <div class="name">
                                             <span>cockroachdb/cockroach</span>
-                                            <span>starred 9 hours ago</span>
+                                            <span>starred 10 hours ago</span>
                                         </div>
                                     </div>
                                     <div class="field description">
@@ -1719,7 +1719,7 @@
                                         </svg>
                                         <div class="name">
                                             <span>elsewhencode/project-guidelines</span>
-                                            <span>starred 9 hours ago</span>
+                                            <span>starred 10 hours ago</span>
                                         </div>
                                     </div>
                                     <div class="field description">
