@@ -1454,10 +1454,10 @@
                 <div class="row fill-width">
                     <section class="categories">
                         <div class="category column">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="325.71 329"/>
-                                <text x="60" y="60" dominant-baseline="central">99</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="289.52 329"/>
+                                <text x="60" y="60" dominant-baseline="central">88</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -2517,7 +2517,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>karan/Projects</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2555,7 +2555,7 @@
                                         </svg>
                                         <div class="name">
                                             <span>cockroachdb/cockroach</span>
-                                            <span>starred 6 hours ago</span>
+                                            <span>starred 7 hours ago</span>
                                         </div>
                                     </div>
                                     <div class="field description">
@@ -2597,7 +2597,7 @@
                                         </svg>
                                         <div class="name">
                                             <span>elsewhencode/project-guidelines</span>
-                                            <span>starred 6 hours ago</span>
+                                            <span>starred 7 hours ago</span>
                                         </div>
                                     </div>
                                     <div class="field description">
@@ -2639,7 +2639,7 @@
                                         </svg>
                                         <div class="name">
                                             <span>MunGell/awesome-for-beginners</span>
-                                            <span>starred 6 hours ago</span>
+                                            <span>starred 7 hours ago</span>
                                         </div>
                                     </div>
                                     <div class="field description">
@@ -2673,7 +2673,7 @@
                                         </svg>
                                         <div class="name">
                                             <span>jgraph/drawio</span>
-                                            <span>starred 7 hours ago</span>
+                                            <span>starred 8 hours ago</span>
                                         </div>
                                     </div>
                                     <div class="field description">
@@ -2712,7 +2712,7 @@
                 </div>
                 <footer>
                     <span>These metrics include private contributions</span>
-                    <span>Last updated Sat, 17 Jul 2021 09:12:23 (timezone America/Lima) with lowlighter/metrics@3.10.0</span>
+                    <span>Last updated Sat, 17 Jul 2021 10:12:31 (timezone America/Lima) with lowlighter/metrics@3.10.0</span>
                 </footer>
                 <div id="metrics-end"></div>
             </section>
